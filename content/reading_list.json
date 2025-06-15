@@ -1,0 +1,30 @@
+[
+  {
+    "id": "transformers-in-context-learning",
+    "title": "What Can Transformers Learn In-Context? A Case Study of Simple Function Classes",
+    "url": "https://arxiv.org/pdf/2208.01066",
+    "tags": ["Berkeley Research"],
+    "dateAdded": "2025-01-30"
+  },
+  {
+    "id": "in-context-imitation-learning",
+    "title": "In-Context Imitation Learning via Next-Token Prediction",
+    "url": "https://arxiv.org/pdf/2408.15980",
+    "tags": ["Berkeley Research"],
+    "dateAdded": "2025-01-30"
+  },
+  {
+    "id": "transformer-mpc",
+    "title": "Transformer-based Model Predictive Control: Trajectory Optimization via Sequence Modeling",
+    "url": "https://arxiv.org/pdf/2410.23916v1",
+    "tags": ["Berkeley Research"],
+    "dateAdded": "2025-01-30"
+  },
+  {
+    "id": "prompt-robot-walk-llm",
+    "title": "Prompt a Robot to Walk with Large Language Models",
+    "url": "https://arxiv.org/pdf/2309.09969",
+    "tags": ["Berkeley Research"],
+    "dateAdded": "2025-01-30"
+  }
+]

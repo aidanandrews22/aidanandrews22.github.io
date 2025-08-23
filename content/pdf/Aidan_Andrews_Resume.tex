@@ -157,17 +157,48 @@
   \resumeSubHeadingListStart
 
   \resumeSubheading
-      {AI/ML Research Intern}{Nov 2024 – Present}
-      {AIFARMS National AI Institute \& Center for Digital Agriculture}{On-Site}
+    {AI Researcher}{April 2025 – Present}
+    {UC Berkeley AI Research Lab (BAIR)}{Hybrid}
+    \resumeItemListStart
+      \resumeItem{Conducted research on transformer-based control, applying in-context learning to stabilize nonlinear and unstable dynamical systems.}
+      \resumeItem{Designed and implemented \textbf{SAAM} (State-Action to Action Model), a GPT-2–based few-shot controller that learns control strategies without retraining.}
+      \resumeItem{Achieved adaptation to unseen dynamics and parameters \textbf{without weight updates or explicit system identification}, enabling generalization at inference.}
+      \resumeItem{Paper on this work expected in Q4 2025.}
+    \resumeItemListEnd
+
+
+  \resumeSubheading
+      {CTO \& Founding AI/ML Engineer}{May 2025 – Present}
+      {\href{https://aganswers.ai/}{AgAnswers.ai}}{Remote}
+      \resumeItemListStart
+        \resumeItem{Architected and developed full-stack AI platform for agricultural automation, including React/Next.js frontend with real-time chat interface and Python Flask backend with RAG pipeline, vector embeddings, and custom AI agents.}
+        \resumeItem{Built production-scale document processing system with Qdrant vector database, OpenAI embeddings, and multi-modal analysis capabilities for agricultural research papers, sensor data, images, and satellite imagery.}
+        \resumeItem{Building agentic workflows for ag, enabling automated decision-making for crop management and equipment monitoring.}
+        \resumeItem{Deployed scalable infrastructure using Docker, Vercel, Railway, and Supabase, handling document ingestion queues, user authentication, and real-time streaming responses for 10,000+ conversations.}
+      \resumeItemListEnd
+
+  \resumeSubheading
+      {AI/ML Researcher and Engineer}{Nov 2024 – Present}
+      {AIFARMS, NCSA, and Center for Digital Agriculture}{On-Site}
       \resumeItemListStart
         \resumeItem{Developing tools for LLM integration in production-scale chatbots, enhancing agentic workflows, which facilitated over 10,000 conversations and the efficient resolution of over 13,500 real-world problems.}
         \resumeItem{Implementing AI-driven solutions to increase the efficiency of current agricultural practices at scale.}
         \resumeItem{Building and researching agents, RFT, RAG, Reasoning, and pre/post training to advance AI capabilities in agriculture.}
       \resumeItemListEnd
 
+    \resumeSubheading
+      {AI Engineer}{May 2025 – Aug 2025}
+      {BrightTech AI \& Qsystems AI (worked with both teams)}{On-Site}
+      \resumeItemListStart
+        \resumeItem{Architected and implemented CSV comparison agent system with intelligent schema detection, automated key column identification, and human-readable difference reporting, enabling seamless data reconciliation across disparate datasets.}
+        \resumeItem{Built comprehensive contact intelligence pipeline processing 15+ standardized fields through two-stage agent architecture: signal collection (LinkedIn, news APIs, social media) and persona analysis, generating executive briefings with temporal scoring and credibility signals.}
+        \resumeItem{Developed 25+ specialized AI tools including BrightData integration, publication analysis, social media monitoring, and batch processing capabilities, supporting parallel execution with Redis/Celery job queues for high-volume enterprise workflows.}
+        \resumeItem{Engineered CrewAI-based orchestration system with YAML configuration management, enabling scalable agent deployment across research, customer acquisition, and sales optimization workflows with 30-45 second per-contact processing latency.}
+      \resumeItemListEnd
+
   \resumeSubheading
       {Startup (Signed NDA)}{May 2024 – Aug 2024}
-      {Founding Machine Learning Engineer}{Remote}
+      {Founding AI/ML Engineer}{Remote}
       \resumeItemListStart
         \resumeItem{Engineered advanced NLP systems, optimizing Retrieval-Augmented Generation (RAG) and intent classification.}
         \resumeItem{Designed a novel "wavular" RAG approach and hybrid embedding-based classification system.}
@@ -179,7 +210,7 @@
       {\href{https://www.aaxiom.org/}{AAXIOM.org} | My Startup Portfolio}{March 2023 – Present}
       {FOUNDER, Sole Developer}{}
       \resumeItemListStart
-        \resumeItem{NVRALONE peaked at \$10K/month in profit, IlliniPlan over 1k active users, and Voxed 10k+ users (survey estimate).}
+        \resumeItem{NVRALONE peaked at \$10K/month in profit, IlliniPlan over 1k active users, and Voxed (Acquired May 2025).}
       \resumeItemListEnd
       
 % -----------Multiple Positions Heading-----------
@@ -213,13 +244,20 @@
 %-----------AI/ML PROJECTS-----------
 \section{Projects}
     \resumeSubHeadingListStart
-    
+
         \resumeProjectHeading
-          {\textbf{\href{https://www.aidanandrews.info/projects/climatepredict}{Climate Predict | Global Warming Calculator}} $|$ \emph{Rust, Regression Models}}{}
+          {\textbf{WritGenius | AI \& Agents for Law} $|$ \emph{TypeScript, Google ADK}}{}
           \resumeItemListStart
-            \resumeItem{Developed a multi regression model in Rust. The project comprises 3 regression models: linear regression, polynomial regression, and random forest regression (incomplete).}
-            \resumeItem{Used public NASA datasets to predict temperature change given CO2 emmisions.}
+            \resumeItem{Developing a multi-agent system to assist with legal work.}
+            \resumeItem{Currently working with a law firm to automate writs, pleas, and other legal documents.}
           \resumeItemListEnd
+    
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/climatepredict}{Climate Predict | Global Warming Calculator}} $|$ \emph{Rust, Regression Models}}{}
+        \resumeItemListStart
+          \resumeItem{Developed a multi regression model in Rust. The project comprises 3 regression models: linear regression, polynomial regression, and random forest regression (incomplete).}
+          \resumeItem{Used public NASA datasets to predict temperature change given CO2 emmisions.}
+        \resumeItemListEnd
           
       \resumeProjectHeading
           {\textbf{\href{https://www.aidanandrews.info/projects/devanagari-web-app}{Devanagari Language Learning App}} $|$ \emph{Python, Flask, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib}}{}
@@ -242,6 +280,12 @@
         \resumeItemListEnd
 
       \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/minllm}{MinLLM | Ultra-Lightweight Workflow Framework}} $|$ \emph{Python, pip package}}{}
+        \resumeItemListStart
+          \resumeItem{A blazingly fast, zero-dependency framework for building directed graphs, LLM workflows, and agent systems. Written in roughly 100 lines while maintaining full expressiveness through operator overloading.}
+        \resumeItemListEnd
+
+      \resumeProjectHeading
         {\textbf{\href{https://www.aidanandrews.info/projects/illini-plan}{IlliniPlan.com | Student Course Scheduler and Degree Progress}} $|$ \emph{Postgres, React, Typescript, Tailwind}}{}
         \resumeItemListStart
         \resumeItem{Over 1k active users, over 10k course schedules created, and over 100k course recommendations.}
@@ -254,13 +298,22 @@
         {\textbf{\href{https://www.aidanandrews.info/projects/illini-spots}{IlliniSpots | UIUC Study Spot Finder (IOS App)}} $|$ \emph{Postgres, Firebase, Swift, React Native, Expo, Search}}{}  
         
       \resumeProjectHeading
-            {\textbf{\href{https://www.aidanandrews.info/projects/voxai}{VoxAI | The Autonomous Learning Assistant}} $|$ \emph{Google Cloud Services, OpenAI API, Ubuntu, PyDub, Python}}{}
-        
+        {\textbf{\href{https://www.aidanandrews.info/projects/voxai}{VoxAI | The Autonomous Learning Assistant}} $|$ \emph{Google Cloud Services, OpenAI API, Ubuntu, PyDub, Python}}{}
+            
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/guideme/}{GuideMe | macOS app that guides users to perform tasks on Mac.}} $|$ \emph{Swift, SwiftUI, macOS}}{}  
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/web-navigation-assistant/}{WNA | Chrome extension that guides users with a mouse pointer.}} $|$ \emph{TypeScript, Chrome Extension API}}{}  
     \resumeSubHeadingListEnd
 
 %-----------EXTRACURRICULAR ACTIVITIES-----------
-\section{Extracurricular Activities}
+\section{Leadership, Community Engagement \& Extracurriculars}
   \resumeSubHeadingListStart
+        \resumeProjectHeading
+          {\textbf{Pro Bono Projects}}{}
+          \resumeItemListStart
+            \resumeItem{Design and develop apps, AI tools, and websites for friends, family, and community members \textbf{at no cost}, solving real-world problems across diverse domains.}
+          \resumeItemListEnd
         \resumeProjectHeading
           {\textbf{Division 1 College Ice Hockey} $|$ \emph{University Of Illinois Men's ACHA Division 1 Hockey}}{}
         \resumeProjectHeading
@@ -269,6 +322,11 @@
           {\textbf{Chess} $|$ \emph{Rated 2000 over-the-board, Training to become a FIDE Master}}{}
         \resumeProjectHeading
           {\textbf{BuildIllinois Cohort Team} $|$ \emph{Building and fostering startups at UIUC}}{}
+        \resumeProjectHeading
+          {\textbf{\href{https://one.illinois.edu/illinibusinessforum/leadership-team/}{Treasurer \& Co-Founder of Illini Business Forum}} $|$ \emph{Investment Banking, Accounting, and Consulting at UIUC}}{}
+        \resumeProjectHeading
+          {\textbf{\href{https://www.youtube.com/@aidanandrews}{Content Creation}} $|$ \emph{Streamed myself working 80+ hours a week on \href{https://www.youtube.com/@aidanandrews}{youtube} and amassed 11k+ followers, 1M+ views}}{}
+        
   \resumeSubHeadingListEnd
 
 %
@@ -277,9 +335,11 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages in order of proficiency}{: C++, Python, \newline TypeScript, Kotlin, JavaScript, Java} \\
-     \textbf{Developer Tools}{: Git, Linux, CLI, Docker, AWS,} \\
-     \hspace*{0em}{Pytorch, Tensorflow, Firebase, Transformers, HuggingFace, Supabase, Postgres} \\
+     \textbf{Languages in order of proficiency}{: C++, Python, \newline TypeScript, Kotlin, JavaScript, Java, Rust} \\
+     \textbf{Developer Tools}{: Git, Linux, CLI, Docker, AWS, Vercel, Railway} \\
+     \textbf{AI/ML}{: PyTorch, TensorFlow, Transformers, HuggingFace, OpenAI API, RAG, CrewAI, LangChain} \\
+     \textbf{Web \& Cloud}{: React/Next.js, Flask, Supabase, Postgres, Firebase, Redis, Celery, FastAPI} \\
+     \textbf{Data}{: SQL, Vector DBs, Object Storage} \\
     }}
  \end{itemize}
 \end{minipage}
@@ -291,7 +351,7 @@
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
     \textbf{Clubs/Organizations}{: James Scholar, NSBE, MEP} \\
-    \textbf{Interesting Facts}{: Streamed myself working 80+ hours a week on youtube with 11k+ followers, 1M+ views. \newline Own and run an educational and motivational discord server with over 1k members focused on CS, ML/AI, Math, Physics, education, and overall life.} \\
+    \textbf{Interesting Facts}{: Own and run an educational and motivational discord server with over 1k members focused on CS, ML/AI, Math, Physics, education, and overall life.} \\
     }}
  \end{itemize}
 \end{minipage}

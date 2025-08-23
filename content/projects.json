@@ -56,6 +56,14 @@
     "tags": ["AI & Machine Learning", "Completed"]
   },
   {
+    "id": "minllm",
+    "title": "MinLLM: Ultra-Lightweight Workflow Framework",
+    "description": "A blazingly fast, zero-dependency framework for building directed graphs, LLM workflows, and agent systems. Written in roughly 100 lines while maintaining full expressiveness through operator overloading.",
+    "demoLink": null,
+    "githubLink": "https://github.com/aidanandrews22/minllm",
+    "tags": ["Python", "pip package"]
+  },
+  {
     "id": "work",
     "title": "Work Code",
     "description": "The repo attached contains some code that I have written for my work on uiuc.chat/cropwizard-1.5",

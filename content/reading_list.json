@@ -40,5 +40,54 @@
     "url": "https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
     "tags": ["Personal"],
     "dateAdded": "2024-01-30"
+  },
+  {
+    "id": "openvla-vision-language-action",
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "url": "https://arxiv.org/abs/2406.09246",
+    "tags": ["Robotics", "Vision-Language-Action"],
+    "dateAdded": "2025-08-15"
+  },
+  {
+    "id": "navila-legged-robot-navigation",
+    "title": "NaVILA: Legged Robot Vision-Language-Action Model for Navigation",
+    "url": "https://navila-bot.github.io/static/navila_paper.pdf",
+    "tags": ["Robotics", "Vision-Language-Action", "Navigation"],
+    "dateAdded": "2025-09-03"
+  },
+  {
+    "id": "hierarchical-vision-language-planning",
+    "title": "Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation",
+    "url": "https://arxiv.org/html/2506.22827v1",
+    "tags": ["Robotics", "Vision-Language-Action", "Manipulation"],
+    "dateAdded": "2025-08-28"
+  },
+  {
+    "id": "groot-n1-humanoid-robots",
+    "title": "GR00T N1: An Open Foundation Model for Generalist Humanoid Robots",
+    "url": "https://arxiv.org/abs/2503.14734",
+    "tags": ["Robotics", "Humanoid", "Foundation Model"],
+    "dateAdded": "2025-09-18"
+  },
+  {
+    "id": "groot-n1-5-humanoid-robots",
+    "title": "GR00T N1.5",
+    "url": "https://research.nvidia.com/labs/gear/gr00t-n1_5/",
+    "tags": ["Robotics", "Humanoid", "Foundation Model"],
+    "dateAdded": "2025-09-01"
+  },
+  {
+    "id": "lever-humanoid-whole-body-control",
+    "title": "LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction",
+    "url": "https://arxiv.org/abs/2506.13751",
+    "tags": ["Robotics", "Humanoid", "Whole-Body Control"],
+    "dateAdded": "2025-08-22"
+  },
+  {
+    "id": "pi05-vision-language-action",
+    "title": "π0.5: a Vision-Language-Action Model with Open-World Generalization",
+    "url": "https://www.physicalintelligence.company/download/pi05.pdf",
+    "tags": ["Robotics", "Vision-Language-Action", "Generalization"],
+    "dateAdded": "2025-09-12"
   }
 ]

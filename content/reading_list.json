@@ -89,5 +89,12 @@
     "url": "https://www.physicalintelligence.company/download/pi05.pdf",
     "tags": ["Robotics", "Vision-Language-Action", "Generalization"],
     "dateAdded": "2025-09-12"
+  },
+  {
+    "id": "doremi-grounding-language-model",
+    "title": "DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment",
+    "url": "https://arxiv.org/pdf/2307.00329",
+    "tags": ["Robotics","LLMs", "Planning"],
+    "dateAdded": "2025-09-28"
   }
 ]

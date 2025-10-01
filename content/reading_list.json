@@ -77,7 +77,7 @@
     "dateAdded": "2025-09-01"
   },
   {
-    "id": "lever-humanoid-whole-body-control",
+    "id": "leverb-humanoid-whole-body-control",
     "title": "LeVERB: Humanoid Whole-Body Control with Latent Vision-Language Instruction",
     "url": "https://arxiv.org/abs/2506.13751",
     "tags": ["Robotics", "Humanoid", "Whole-Body Control"],
@@ -96,5 +96,19 @@
     "url": "https://arxiv.org/pdf/2307.00329",
     "tags": ["Robotics","LLMs", "Planning"],
     "dateAdded": "2025-09-28"
+  },
+  {
+    "id": "vision-in-action-active-perception",
+    "title": "Vision in Action: Learning Active Perception from Human Demonstrations",
+    "url": "https://arxiv.org/pdf/2506.15666",
+    "tags": ["Robotics", "Imitation Learning"],
+    "dateAdded": "2025-10-01"
+  },
+  {
+    "id": "guiding-long-horizon-task-motion-planning",
+    "title": "Guiding Long-Horizon Task and Motion Planning with Vision Language Models",
+    "url": "https://arxiv.org/pdf/2410.02193",
+    "tags": ["Robotics", "Vision-Language Models"],
+    "dateAdded": "2025-09-30"
   }
 ]

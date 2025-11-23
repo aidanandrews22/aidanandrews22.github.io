@@ -2,7 +2,7 @@
   {
     "id": "g1",
     "title": "VLAs and G1",
-    "graphic": "",
+    "graphic": null,
     "description": "Knowledge and research assistant and agent.",
     "link": "https://voxed.ai/",
     "githubLink": "https://github.com/orgs/VoxedAi/repositories",
@@ -12,7 +12,7 @@
   {
     "id": "so-101",
     "title": "VLAs and SO-101",
-    "graphic": "",
+    "graphic": null,
     "description": "The app allows students to create course maps, track graduation readiness, and meet nuanced academic requirements using a rule-enforcing scheduler. Users can see their status on every single degree requirement to determine graduation readiness. Personalized course recommendations via an LLM, reorganizes plans to resolve unmet requirements, and prevents invalid scheduling (e.g., prerequisite violations, time conflicts, restrictions). The app integrates institutional course data, displays insights like average GPA, and supports exporting schedules (google sheets) to share with advisors.",
     "link": "https://www.illiniplan.com/",
     "githubLink": "https://github.com/aidanandrews22/IlliniPlan",
@@ -22,7 +22,7 @@
   {
     "id": "tfc",
     "title": "Transformers for Control",
-    "graphic": "",p
+    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/f2c5f90a964e37e335dc479ee1d4902d06e0e856/content/images/research/tfc.gif",
     "description": "A high-performance multimodal video generator for educational videos, leveraging AI to create engaging animations with one prompt.",
     "link": null,
     "githubLink": "https://github.com/aidanandrews22/manim-video-agent.git",

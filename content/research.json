@@ -4,7 +4,7 @@
     "title": "VLAs and G1",
     "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/a4182753e2c6705e94c15883deb93a2412f8e7fa/content/images/research/g1.MOV",
     "description": "Developing a simulation-to-reality pipeline for the Unitree G1 humanoid to perform autonomous laboratory manipulation tasks. The system utilizes NVIDIA's GR00T N1.5 foundation model within Isaac Lab, integrating upper-body vision-language-action control with lower-body stabilization policies.",
-    "link": "null",
+    "link": null,
     "githubLink": null,
     "paper": null,
     "tags": ["Unitree G1",

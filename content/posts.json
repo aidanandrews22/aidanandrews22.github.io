@@ -1,5 +1,14 @@
 [
   {
+    "id": "berk",
+    "title": "Can Transformers Perform Low-Level Control In-Context?",
+    "date": "2025-11-10",
+    "tags": ["Berkeley", "AI/ML", "Low Level Control", "Pub"],
+    "summary": "Can transformer models, using only in-context learning, reliably perform low-level closed-loop control and stabilization of unstable nonlinear dynamical systems such as cartpole and acrobot?",
+    "content": "content/pdf/research/tfc.pdf",
+    "type": "pdf"
+  },
+  {
     "id": "math495",
     "title": "MATHEMATICAL MODELING OF REINFORCEMENT LEARNING IN MULTI-AGENT SYSTEMS",
     "date": "2025-05-20",

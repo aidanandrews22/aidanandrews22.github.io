@@ -30,7 +30,7 @@
     "description": "Can transformer models, using only in-context learning, reliably perform low-level closed-loop control and stabilization of unstable nonlinear dynamical systems such as cartpole and acrobot?",
     "link": "https://youtu.be/wxPeDKUTIDM?si=cnKtUFrvUxg94yp1",
     "githubLink": null,
-    "paper": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/c4b7f447b2ea94fb5f09f3e274b349851c4d84f3/content/pdf/research/tfc.pdf",
+    "paper": "https://aidanandrews22.github.io/content/pdf/research/tfc.pdf",
     "tags": [
       "Transformers",
       "Low Level Control",

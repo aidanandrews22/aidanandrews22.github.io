@@ -16,7 +16,7 @@
   {
     "id": "so-101",
     "title": "VLAs and SO-101 (in progress)",
-    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/5f080187cfdadbf3b7027aa96142429c1f4f936e/content/images/research/so-101.MOV",
+    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/ea2a29dda399f04b9d4bffd1136959b52fcd4b52/content/images/research/g1.mov",
     "description": "A diagnostic testbed utilizing the SO-ARM101 robotic arm to validate data collection workflows and teleoperation strategies for VLA training. Uses custom ROS2 bridge scripts to stream leader-arm inputs directly into Isaac Sim, facilitating the isolation of data quality variables and testing GR00T's performance on simpler embodiments before scaling to the G1.",
     "link": null,
     "githubLink": null,

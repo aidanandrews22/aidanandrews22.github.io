@@ -1,27 +1,23 @@
 [
   {
     "id": "g1",
-    "title": "VLAs and G1 (in progress)",
-    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/ea2a29dda399f04b9d4bffd1136959b52fcd4b52/content/images/research/g1.mov",
-    "description": "Developing a simulation-to-reality pipeline for the Unitree G1 humanoid to perform autonomous laboratory manipulation tasks. The system utilizes NVIDIA's GR00T N1.5 foundation model within Isaac Lab, integrating upper-body vision-language-action control with lower-body stabilization policies.",
+    "title": "VLAs for Humanoid Manipulation",
+    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/ea2a29dda399f04b9d4bffd1136959b52fcd4b52/content/images/research/g1.mp4",
+    "description": "Deployed NVIDIA GR00T N1.5 on the Unitree G1 humanoid for language-conditioned manipulation in Isaac Sim. Key finding: LoRA fine-tuning on just 14 VR-teleoperated trajectories achieves generalization, while full fine-tuning catastrophically overfits. Pipeline includes Meta Quest 3 teleoperation, ROS2 integration, and lower-body stabilization for upper-body manipulation.",
     "link": null,
     "githubLink": null,
     "paper": null,
-    "tags": ["Unitree G1",
-      "Isaac Lab",
-      "GR00T N1.5",
-      "Sim-to-Real",
-      "Humanoid"]
+    "tags": ["Unitree G1", "GR00T N1.5", "LoRA", "VR Teleoperation", "Isaac Sim"]
   },
   {
     "id": "so-101",
-    "title": "VLAs and SO-101 (in progress)",
+    "title": "SO-101 VLA Diagnostic Platform",
     "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/5f080187cfdadbf3b7027aa96142429c1f4f936e/content/images/research/so-101.MOV",
-    "description": "A diagnostic testbed utilizing the SO-ARM101 robotic arm to validate data collection workflows and teleoperation strategies for VLA training. Uses custom ROS2 bridge scripts to stream leader-arm inputs directly into Isaac Sim, facilitating the isolation of data quality variables and testing GR00T's performance on simpler embodiments before scaling to the G1.",
+    "description": "Validated GR00T N1.5 on the SO-ARM101 robotic arm to isolate whether performance issues originated from the model or data quality. Collected 20 physical teleoperation trajectories, fine-tuned GR00T, and deployed to hardware—confirming data compatibility is the critical factor. Includes custom ROS2 bridges and servo configuration fixes for Feetech STS3215 motors.",
     "link": null,
     "githubLink": null,
     "paper": null,
-    "tags": ["Teleoperation", "VLAM", "LeRobot", "Isaac Sim"]
+    "tags": ["SO-101", "GR00T N1.5", "ROS2", "LeRobot", "Hardware Debugging"]
   },
   {
     "id": "tfc",

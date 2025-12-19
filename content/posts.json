@@ -9,6 +9,15 @@
     "type": "pdf"
   },
   {
+    "id": "vla-humanoids",
+    "title": "Training Humanoids with 14 Demonstrations",
+    "date": "2025-12-18",
+    "tags": ["ML", "Robotics", "Research"],
+    "summary": "I spent a semester trying to deploy VLAs on a humanoid robot. Key finding: LoRA fine-tuning on 14 trajectories beats full fine-tuning with 100k steps. Parameter-efficient training isn't optional—it's essential.",
+    "content": "content/posts/vla-humanoids.md",
+    "type": "md"
+  },
+  {
     "id": "math495",
     "title": "MATHEMATICAL MODELING OF REINFORCEMENT LEARNING IN MULTI-AGENT SYSTEMS",
     "date": "2025-05-20",

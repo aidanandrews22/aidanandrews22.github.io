@@ -2,7 +2,7 @@
   {
     "id": "g1",
     "title": "VLAs for Humanoid Manipulation",
-    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/ea2a29dda399f04b9d4bffd1136959b52fcd4b52/content/images/research/g1.mp4",
+    "graphic": "https://github.com/aidanandrews22/aidanandrews22.github.io/blob/4967363d7ff70c8d4e64c549589e5c3dc6ca4dd5/content/images/research/g1.mp4",
     "description": "Deployed NVIDIA GR00T N1.5 on the Unitree G1 humanoid for language-conditioned manipulation in Isaac Sim. Key finding: LoRA fine-tuning on just 14 VR-teleoperated trajectories achieves generalization, while full fine-tuning catastrophically overfits. Pipeline includes Meta Quest 3 teleoperation, ROS2 integration, and lower-body stabilization for upper-body manipulation.",
     "link": null,
     "githubLink": null,

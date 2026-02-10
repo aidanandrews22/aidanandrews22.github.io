@@ -6,7 +6,7 @@
     "description": "Deployed NVIDIA GR00T N1.5 on the Unitree G1 humanoid for language-conditioned manipulation in Isaac Sim. Key finding: LoRA fine-tuning on just 14 VR-teleoperated trajectories achieves generalization, while full fine-tuning catastrophically overfits. Pipeline includes Meta Quest 3 teleoperation, ROS2 integration, and lower-body stabilization for upper-body manipulation.",
     "link": null,
     "githubLink": null,
-    "paper": null,
+    "paper": "https://aidanandrews22.github.io/content/pdf/research/Aidan_Andrews_ECE398_Final_Report.pdf",
     "tags": ["Unitree G1", "GR00T N1.5", "LoRA", "VR Teleoperation", "Isaac Sim"]
   },
   {

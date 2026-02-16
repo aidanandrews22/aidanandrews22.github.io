@@ -1,0 +1,339 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,10.99999999999999pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+\urlstyle{same}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-8pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-1pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeEducationEntry}[3]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \\
+      \textit{\small#2} & \textit{\small #3} \hfill
+    \end{tabular*}\vspace{-4pt}
+}
+
+\newcommand{\resumeSingleLineSubheading}[2]{
+  \item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textit{\small#2} \\
+    \end{tabular*}\vspace{-6pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape \underline{Aidan Andrews}} \\ \vspace{1pt}
+    \small +1 (310) 910-4721 $|$ \href{mailto:aidansa2@illinois.edu}{aidansa2@illinois.edu} $|$
+    \href{https://www.linkedin.com/in/aidanandrewss/}{linkedin.com/in/aidanandrewss/} $|$
+    \href{https://github.com/aidanandrews22}{github.com/aidanandrews22} $|$
+    \href{https://aidanandrews.info}{aidanandrews.info}
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeEducationEntry
+      {University of Illinois at Urbana-Champaign | James Scholar}
+      {B.S. Engineering Physics: AI/ML Focus, Minors in Computer Science and Math}
+      {Expected: May 2026, GPA: 3.9}
+  \resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------
+\section{Publications}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+      {\href{https://aidanandrews22.github.io/content/pdf/research/tfc.pdf}{\textbf{Can Transformers Perform Low-Level Control In-Context?}}}{}
+    \resumeItemListStart
+      \resumeItem{Work conducted at UC Berkeley BAIR.}
+    \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------RESEARCH EXPERIENCE-----------
+\section{Research Experience}
+  \resumeSubHeadingListStart
+
+  \resumeSubheading
+    {Robotics Researcher -- KIMLAB}{Aug 2025 – Present}
+    {University of Illinois at Urbana-Champaign}{On-Site}
+    \resumeItemListStart
+     \resumeItem{Investigating embodied foundation models for Unitree G1 humanoid manipulation using vision-language-action models.}
+     \resumeItem{Integrated GR00T N1.5 with Isaac Sim/Lab, implementing real-time streaming control and comprehensive state logging.}
+     \resumeItem{Built ROS2 bridge architecture for SO-101 (single-arm) manipulator as diagnostic testbed for teleoperation workflows.}
+     \resumeItem{Implementing hierarchical control: VLA-based upper-body manipulation with stabilization policies for balance.}
+   \resumeItemListEnd
+
+  \resumeSubheading
+    {AI Researcher -- BAIR -- Prof.\ Gireeja Ranade}{April 2025 – Present}
+    {UC Berkeley AI Research Lab}{Hybrid}
+    \resumeItemListStart
+      \resumeItem{Conducted research on transformer-based control, applying in-context learning to stabilize nonlinear and unstable dynamical
+      systems (cartpole, acrobot).}
+      \resumeItem{Designed and implemented a GPT-2–based few-shot controller that learns control strategies without retraining.}
+      \resumeItem{Demonstrated generalization to unseen dynamics without weight updates or explicit system identification.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {AI Researcher -- AIFARMS, NCSA, CDA -- Prof.\ Vikram Adve}{Oct 2024 – Present}
+    {University of Illinois at Urbana-Champaign}{On-Site}
+    \resumeItemListStart
+      \resumeItem{Developing tools for LLM integration in production-scale chatbots, enhancing agentic workflows, which facilitated over 10,000 conversations and the efficient resolution of over 13,500 real-world problems.}
+      \resumeItem{Implementing AI-driven solutions to increase the efficiency of current agricultural practices at scale.}
+      \resumeItem{Building and researching agents, RFT, RAG, Reasoning, and pre/post training to advance AI capabilities in agriculture.}
+      \resumeItem{Researching agentic LLM systems for agriculture: hierarchical multi-agent orchestration, context retrieval/management, and task delegation across specialized agents.}
+      \resumeItem{Building tools (CSV, Shapefile agents) enabling LLMs to interact meaningfully with heterogeneous farm data streams.}
+    \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------TEACHING EXPERIENCE-----------
+\section{Teaching Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Course Assistant \& Project Manager -- CS 124}{Dec 2023 – May 2024}
+      {University of Illinois at Urbana-Champaign}{On-Site}
+      \resumeItemListStart
+        \resumeItem{Tutored students and led office hours for introductory computer science course.}
+        \resumeItem{Mentored undergraduate teams through semester-long AI projects (Honors section).}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+%-----------INDUSTRY & ENGINEERING EXPERIENCE-----------
+\section{Industry \& Engineering Experience}
+  \resumeSubHeadingListStart
+  \resumeSubheading
+    {Co-founder, CTO, Lead AI/ML Engineer -- \href{https://aganswers.ai/}{AgAnswers.ai}}{May 2025 – Present}
+    {Full-stack AI platform with multi-agent orchestration, vector DBs, and knowledge graphs}{Remote}
+    \resumeItemListStart
+      \resumeItem{Architected and developed full-stack AI platform for agricultural automation, including React/Next.js frontend with real-time chat interface and Python Flask backend with a vast network of llms, tools, and agents.}
+      \resumeItem{Built production-scale document processing system with vector databases, embedding models, and multi-modal analysis capabilities for any data source.}
+      \resumeItem{Building agentic workflows for ag, enabling automated decision-making for everything from data management to equipment monitoring.}
+      \resumeItem{Deployed scalable infrastructure using Docker, Vercel, Railway, and Supabase, handling document ingestion queues, user authentication, and real-time streaming responses.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+      {AI Engineer -- BrightTech AI \& Qsystems AI}{May 2025 – Aug 2025}
+      {Built AI tools and CrewAI-based multi-agent orchestration for enterprise workflows}{On-Site}
+      \resumeItemListStart
+        \resumeItem{Architected and implemented CSV comparison agent system with intelligent schema detection, automated key column identification, and human-readable difference reporting.}
+        \resumeItem{Built comprehensive contact intelligence pipeline processing 15+ standardized fields through two-stage agent architecture: signal collection and persona analysis.}
+        \resumeItem{Developed 25+ specialized AI tools including BrightData integration, publication analysis, social media monitoring, and batch processing capabilities.}
+        \resumeItem{Engineered CrewAI-based orchestration system with YAML configuration management, enabling scalable agent deployment (30-45 second per-contact processing latency).}
+      \resumeItemListEnd
+
+  \resumeSubheading
+      {Founding AI/ML Engineer -- Startup (NDA)}{May 2024 – Aug 2024}
+      {Novel RAG architectures and hybrid embedding classification for resource-constrained NLP}{Remote}
+      \resumeItemListStart
+        \resumeItem{Engineered advanced NLP systems, optimizing Retrieval-Augmented Generation (RAG) and intent classification.}
+        \resumeItem{Designed a novel ``wavular'' RAG approach and hybrid embedding-based classification system.}
+        \resumeItem{Applied vector space models, similarity metrics (cosine, Euclidean), and text representation methods.}
+        \resumeItem{Managed large-scale NLP datasets with complex preprocessing for resource-constrained environments.}
+      \resumeItemListEnd
+      
+  \resumeSubheading
+      {Founder -- \href{https://www.aaxiom.org/}{AAXIOM.org} Startup Portfolio}{March 2023 – Aug 2025}
+      {NVRALONE (\$10K/month peak), IlliniPlan (1k+ users), Voxed (Acquired May 2025)}{}
+
+  \resumeSubHeadingListEnd
+
+%-----------AI/ML PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/climatepredict}{Climate Predict | Global Warming Calculator}} $|$ \emph{Rust, Regression Models}}{}
+        \resumeItemListStart
+          \resumeItem{Developed a multi regression model in Rust. The project comprises 3 regression models: linear regression, polynomial regression, and random forest regression (incomplete).}
+          \resumeItem{Used public NASA datasets to predict temperature change given CO2 emmisions.}
+        \resumeItemListEnd
+          
+      \resumeProjectHeading
+          {\textbf{\href{https://www.aidanandrews.info/projects/devanagari-web-app}{Devanagari Language Learning App}} $|$ \emph{Python, Flask, TensorFlow, Keras, scikit-learn, Pandas, NumPy, Matplotlib}}{}
+          \resumeItemListStart
+            \resumeItem{Engineered a Convolutional Neural Network (CNN) to accurately recognize natural handwritten language.}
+            \resumeItem{Enhanced model performance and accuracy through data preprocessing and augmentation techniques, ensuring robustness against diverse handwriting styles.}
+            \resumeItem{Optimized training efficiency with back-propagation and gradient descent.}
+          \resumeItemListEnd
+
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/voxed}{Voxed.ai | AI Powered Notebook}} $|$ \emph{Google Cloud Services, OpenAI API, Ubuntu, PyDub, Python}}{}
+        \resumeItemListStart
+          \resumeItem{Developed full-stack AI app that allows users to take notes, write code, and synthesize long form content via LLM interaction. LLM capable of code generation, direct note interaction, tool use, and file toggling via RAG pipeline.}
+        \resumeItemListEnd
+        
+      \resumeProjectHeading
+        {\textbf{\href{https://github.com/aidanandrews22/manim-video-agent}{Manim Video Agent | Worlds Most Accessible Tutor}} $|$ \emph{Python, LLM, Pydantic, In-Context Learning, RL Fine-Tuning}}{}
+        \resumeItemListStart
+          \resumeItem{Developed an audio/video agent that can solve any problem and explain it using beautiful animations. Handles tool batching and parallelization, recursive error correction, state caching/resurrection, and phonetic TTS mapping.}
+        \resumeItemListEnd
+
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/minllm}{MinLLM | Ultra-Lightweight Workflow Framework}} $|$ \emph{Python, pip package}}{}
+        \resumeItemListStart
+          \resumeItem{A blazingly fast, zero-dependency framework for building directed graphs, LLM workflows, and agent systems. Written in roughly 100 lines while maintaining full expressiveness through operator overloading.}
+        \resumeItemListEnd
+
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/illini-plan}{IlliniPlan.com | Student Course Scheduler and Degree Progress}} $|$ \emph{Postgres, React, Typescript, Tailwind}}{}
+        \resumeItemListStart
+        \resumeItem{Over 1k active users, over 10k course schedules created, and over 100k course recommendations.}
+        \resumeItemListEnd
+        
+      \resumeProjectHeading
+        {\textbf{\href{https://github.com/aidanandrews22/Research-Agent}{Research Agent}} $|$ \emph{Python, Langchain, LLM, RAG}}{}
+      
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/illini-spots}{IlliniSpots | UIUC Study Spot Finder (IOS App)}} $|$ \emph{Postgres, Firebase, Swift, React Native, Expo, Search}}{}  
+        
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/voxai}{VoxAI | The Autonomous Learning Assistant}} $|$ \emph{Google Cloud Services, OpenAI API, Ubuntu, PyDub, Python}}{}
+            
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/guideme/}{GuideMe | macOS app that guides users to perform tasks on Mac.}} $|$ \emph{Swift, SwiftUI, macOS}}{}  
+      \resumeProjectHeading
+        {\textbf{\href{https://www.aidanandrews.info/projects/web-navigation-assistant/}{WNA | Chrome extension that guides users with a mouse pointer.}} $|$ \emph{TypeScript, Chrome Extension API}}{}  
+    \resumeSubHeadingListEnd
+
+%-----------EXTRACURRICULAR ACTIVITIES-----------
+\section{Leadership, Community Engagement \& Extracurriculars}
+  \resumeSubHeadingListStart
+        \resumeProjectHeading
+          {\textbf{Pro Bono Projects}}{}
+          \resumeItemListStart
+            \resumeItem{Design and develop apps, AI tools, and websites for friends, family, and community members \textbf{at no cost}, solving real-world problems across diverse domains.}
+          \resumeItemListEnd
+        \resumeProjectHeading
+          {\textbf{Former Division 1 College Ice Hockey Player} $|$ \emph{University Of Illinois Men's ACHA Division 1 Hockey}}{}
+        \resumeProjectHeading
+          {\textbf{Developed App for Plastic Surgeon} $|$ \emph{Facilitates patient database management and surgical procedure simulations}}{}
+        \resumeProjectHeading
+          {\textbf{Chess} $|$ \emph{Rated 2000 over-the-board, Training to become a FIDE Master}}{}
+        \resumeProjectHeading
+          {\textbf{BuildIllinois Cohort Team} $|$ \emph{Building and fostering startups at UIUC}}{}
+        \resumeProjectHeading
+          {\textbf{\href{https://one.illinois.edu/illinibusinessforum/leadership-team/}{Treasurer \& Co-Founder of Illini Business Forum}} $|$ \emph{Investment Banking, Accounting, and Consulting at UIUC}}{}
+        \resumeProjectHeading
+          {\textbf{\href{https://www.youtube.com/@aidanandrews}{Content Creation}} $|$ \emph{Streamed myself working 80+ hours a week on \href{https://www.youtube.com/@aidanandrews}{youtube} and amassed 11k+ followers, 1M+ views}}{}
+        
+  \resumeSubHeadingListEnd
+%
+%-----------SKILLS & OTHER-----------
+\begin{minipage}[t]{0.48\textwidth}
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: C++, Python, TypeScript, Kotlin, JavaScript, Java, Rust, Julia} \\
+     \textbf{Developer Tools}{: Git, Linux, CLI, Docker, AWS, Vercel, Railway, CUDA} \\
+     \textbf{Robotics}{: ROS2, Isaac Sim/Lab, MuJoCo, Teleoperation} \\
+     \textbf{AI/ML}{: PyTorch, TensorFlow, Transformers, HuggingFace, OpenAI API, RAG, CrewAI, LangChain, VLA} \\
+     \textbf{Web \& Cloud}{: React/Next.js, Flask, Supabase, Postgres, Firebase, Redis, Celery, FastAPI} \\
+     \textbf{Data}{: SQL, Vector DBs, Object Storage} \\
+    }}
+ \end{itemize}
+\end{minipage}
+\hfill
+\vrule
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+\section{Other}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+    \textbf{Clubs/Organizations}{: James Scholar, NSBE, MEP} \\
+    \textbf{Community}{: Run educational Discord server (1k+ members) focused on CS, ML/AI, Math, Physics, education, and life} \\
+    }}
+ \end{itemize}
+\end{minipage}
+%-------------------------------------------
+\end{document}

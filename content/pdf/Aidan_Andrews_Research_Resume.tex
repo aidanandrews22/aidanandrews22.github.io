@@ -136,17 +136,11 @@
 \section{Publications}
   \resumeSubHeadingListStart
     \resumeProjectHeading
-      {\href{https://aidanandrews22.github.io/content/pdf/research/tfc.pdf}{\textbf{Can Transformers Perform Low-Level Control In-Context?}}}{}
-    \resumeItemListStart
-      \resumeItem{Work conducted at UC Berkeley BAIR.}
-    \resumeItemListEnd
+      {\textbf{Can Transformers Perform Low-Level Control In-Context?}}{BAIR}
 
     \resumeProjectHeading
       {\href{https://aidanandrews22.github.io/content/pdf/research/Aidan_Andrews_ECE398_Final_Report.pdf}{\textbf{Humanoid Manipulation with Vision-Language-Action
-      Models}}}{}
-    \resumeItemListStart
-      \resumeItem{Work conducted at UIUC.}
-    \resumeItemListEnd
+      Models}}}{UIUC}
   \resumeSubHeadingListEnd
 
 %-----------RESEARCH EXPERIENCE-----------
@@ -154,7 +148,17 @@
   \resumeSubHeadingListStart
 
   \resumeSubheading
-    {Robotics Researcher -- KIMLAB}{Aug 2025 – Present}
+    {AI Researcher -- AIFARMS, NCSA, CDA -- Prof.\ Vikram Adve}{Oct 2024 – Present}
+    {University of Illinois at Urbana-Champaign}{On-Site}
+    \resumeItemListStart
+      \resumeItem{Developing tools for LLM integration in production-scale chatbots, enhancing agentic workflows, which facilitated over 10,000 conversations and the efficient resolution of over 13,500 real-world problems.}
+      \resumeItem{Researching knowledge graphs as a suplement or replacement for RAG.}
+      \resumeItem{Building and researching agents, RFT, RAG, Reasoning, and pre/post training to advance AI capabilities in agriculture.}
+      \resumeItem{Researching methods using VLMs, and Multi-Modal LLMs for agricultural applications.}
+    \resumeItemListEnd
+
+  \resumeSubheading
+    {Robotics Researcher -- KIMLAB}{Aug 2025 – Jan 2026}
     {University of Illinois at Urbana-Champaign}{On-Site}
     \resumeItemListStart
      \resumeItem{Investigating embodied foundation models for Unitree G1 humanoid manipulation using vision-language-action models.}
@@ -164,24 +168,13 @@
    \resumeItemListEnd
 
   \resumeSubheading
-    {AI Researcher -- BAIR -- Prof.\ Gireeja Ranade}{April 2025 – Present}
+    {AI Researcher -- BAIR -- Prof.\ Gireeja Ranade}{Feb 2025 – Feb 2026}
     {UC Berkeley AI Research Lab}{Hybrid}
     \resumeItemListStart
       \resumeItem{Conducted research on transformer-based control, applying in-context learning to stabilize nonlinear and unstable dynamical
       systems (cartpole, acrobot).}
       \resumeItem{Designed and implemented a GPT-2–based few-shot controller that learns control strategies without retraining.}
       \resumeItem{Demonstrated generalization to unseen dynamics without weight updates or explicit system identification.}
-    \resumeItemListEnd
-
-  \resumeSubheading
-    {AI Researcher -- AIFARMS, NCSA, CDA -- Prof.\ Vikram Adve}{Oct 2024 – Present}
-    {University of Illinois at Urbana-Champaign}{On-Site}
-    \resumeItemListStart
-      \resumeItem{Developing tools for LLM integration in production-scale chatbots, enhancing agentic workflows, which facilitated over 10,000 conversations and the efficient resolution of over 13,500 real-world problems.}
-      \resumeItem{Implementing AI-driven solutions to increase the efficiency of current agricultural practices at scale.}
-      \resumeItem{Building and researching agents, RFT, RAG, Reasoning, and pre/post training to advance AI capabilities in agriculture.}
-      \resumeItem{Researching agentic LLM systems for agriculture: hierarchical multi-agent orchestration, context retrieval/management, and task delegation across specialized agents.}
-      \resumeItem{Building tools (CSV, Shapefile agents) enabling LLMs to interact meaningfully with heterogeneous farm data streams.}
     \resumeItemListEnd
 
   \resumeSubHeadingListEnd
@@ -202,12 +195,16 @@
   \resumeSubHeadingListStart
   \resumeSubheading
     {Co-founder, CTO, Lead AI/ML Engineer -- \href{https://aganswers.ai/}{AgAnswers.ai}}{May 2025 – Present}
-    {Full-stack AI platform with multi-agent orchestration, vector DBs, and knowledge graphs}{Remote}
+    {Building the future of agriculture}{Remote}
     \resumeItemListStart
-      \resumeItem{Architected and developed full-stack AI platform for agricultural automation, including React/Next.js frontend with real-time chat interface and Python Flask backend with a vast network of llms, tools, and agents.}
-      \resumeItem{Built production-scale document processing system with vector databases, embedding models, and multi-modal analysis capabilities for any data source.}
-      \resumeItem{Building agentic workflows for ag, enabling automated decision-making for everything from data management to equipment monitoring.}
-      \resumeItem{Deployed scalable infrastructure using Docker, Vercel, Railway, and Supabase, handling document ingestion queues, user authentication, and real-time streaming responses.}
+      % \resumeItem{Architected and developed full-stack AI platform for agricultural automation, including React/Next.js frontend with real-time chat interface and Python Flask backend with a vast network of llms, tools, and agents.}
+      % \resumeItem{Built production-scale document processing system with vector databases, embedding models, and multi-modal analysis capabilities for any data source.}
+      % \resumeItem{Building agentic workflows for ag, enabling automated decision-making for everything from data management to equipment monitoring.}
+      % \resumeItem{Deployed scalable infrastructure using Docker, Vercel, Railway, and Supabase, handling document ingestion queues, user authentication, and real-time streaming responses.}
+      \resumeItem{Architected and implemented a \textbf{flat agent runtime with dynamic delegation}, replacing a predefined multi-agent hierarchy that suffered from context siloing and brittle routing; the system spawns task-specific sub-agents at inference, removing the need to enumerate the full task space in code.}
+      \resumeItem{Built and evaluated a \textbf{knowledge-graph retrieval path}. Identified that naive KG-backed search degraded answer quality versus vector-only recall in our setting; consolidated retrieval around a single vector store with \textbf{SQL$\to$vector projection}, enabling unified semantic search over structured data and unstructured documents.}
+      \resumeItem{Researched \textbf{KG-as-data-consolidation-layer} architecture to address schema unpredictability in an LLM-managed SQL database—using noun–verb taxonomies to provide an authoritative index over dynamically created tables and heterogeneous disparate sources.}
+      \resumeItem{Implemented: React/Next.js frontend, Flask backend, Postgres db, object storage, document ingestion and chunking pipeline, RBAC, SMS/WhatsApp integration, user auth, and deployment infrastructure.}
     \resumeItemListEnd
 
   \resumeSubheading
@@ -312,7 +309,7 @@
         \resumeProjectHeading
           {\textbf{\href{https://one.illinois.edu/illinibusinessforum/leadership-team/}{Treasurer \& Co-Founder of Illini Business Forum}} $|$ \emph{Investment Banking, Accounting, and Consulting at UIUC}}{}
         \resumeProjectHeading
-          {\textbf{\href{https://www.youtube.com/@aidanandrews}{Content Creation}} $|$ \emph{Streamed myself working 80+ hours a week on \href{https://www.youtube.com/@aidanandrews}{youtube} and amassed 11k+ followers, 1M+ views}}{}
+          {\textbf{\href{https://www.youtube.com/@aidanandrews}{Content Creation}} $|$ \emph{Streamed myself working 80+ hours a week on \href{https://www.youtube.com/@aidanandrews}{youtube} and amassed 13k+ followers, 1M+ views}}{}
         
   \resumeSubHeadingListEnd
 %
@@ -320,14 +317,14 @@
 \begin{minipage}[t]{0.48\textwidth}
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
-    \small{\item{
-     \textbf{Languages}{: C++, Python, TypeScript, Kotlin, JavaScript, Java, Rust, Julia} \\
-     \textbf{Developer Tools}{: Git, Linux, CLI, Docker, AWS, Vercel, Railway, CUDA} \\
-     \textbf{Robotics}{: ROS2, Isaac Sim/Lab, MuJoCo, Teleoperation} \\
-     \textbf{AI/ML}{: PyTorch, TensorFlow, Transformers, HuggingFace, OpenAI API, RAG, CrewAI, LangChain, VLA} \\
-     \textbf{Web \& Cloud}{: React/Next.js, Flask, Supabase, Postgres, Firebase, Redis, Celery, FastAPI} \\
-     \textbf{Data}{: SQL, Vector DBs, Object Storage} \\
-    }}
+  \small{\item{
+    \textbf{Languages}{: C++, Python, TypeScript, Kotlin, JavaScript, Java, Rust, SQL, Swift} \\
+    \textbf{Developer Tools}{: Git, Linux, CLI, Docker, AWS, GCP, Vercel, CUDA, CI/CD} \\
+    \textbf{Robotics}{: ROS2, Isaac Sim/Lab, MuJoCo, Teleoperation, Sim-to-Real} \\
+    \textbf{AI/ML}{: PyTorch, TensorFlow, Transformers, HuggingFace, OpenAI API, RAG, Embeddings, Vector Search, Fine-Tuning, RLHF/RFT, CrewAI, LangChain, VLA, VLM, Prompt Engineering, Agentic Systems, Multi-Modal LLMs, LLM, diffusion models, reinforcement learning} \\
+    \textbf{Web \& Cloud}{: React/Next.js, Flask, FastAPI, Supabase, Postgres, Firebase, Redis, OAuth, RBAC, REST, Streaming APIs} \\
+    \textbf{Data}{: Postgres, Vector DBs, Object Storage, Knowledge Graphs, Document Ingestion, Chunking, Data Pipelines} \\
+   }}
  \end{itemize}
 \end{minipage}
 \hfill

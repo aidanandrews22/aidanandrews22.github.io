@@ -97,5 +97,13 @@
     "summary": "I don't usually comment on trendy phrases, but this one needs a post...",
     "content": "content/posts/vibecode.md",
     "type": "md"
+  },
+  {
+    "id": "llmskepticism",
+    "title": "LLM Skepticism",
+    "date": "2026-05-20",
+    "tags": ["AI"],
+    "content": "content/posts/llmskepticism.md",
+    "type": "md"
   }
 ]

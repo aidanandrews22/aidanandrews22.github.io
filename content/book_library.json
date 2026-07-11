@@ -1,0 +1,1070 @@
+{
+  "schema_version": "1.0",
+  "library_as_of": "2026-07-11",
+  "rating_scale": {
+    "minimum": 0,
+    "maximum": 100
+  },
+  "summary": {
+    "active_titles": 69,
+    "removed_titles": 4
+  },
+  "reading_status_definitions": {
+    "read": "Completed at least once.",
+    "currently_reading": "Actively reading as of the stated date.",
+    "currently_rereading": "Previously completed and actively reading again.",
+    "partially_read": "Started but not currently being read.",
+    "unread": "Not yet read.",
+    "reference_only": "Reference work not treated as a cover-to-cover read.",
+    "not_specified": "Reading status was not provided."
+  },
+  "books": [
+    {
+      "title": "Confessions",
+      "authors": [
+        "Saint Augustine"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": "Henry Chadwick translation.",
+      "id": 1,
+      "url": "https://openlibrary.org/works/OL137872W",
+      "image_url": "https://covers.openlibrary.org/b/id/9022521-L.jpg"
+    },
+    {
+      "title": "Thinking, Fast and Slow",
+      "authors": [
+        "Daniel Kahneman"
+      ],
+      "category": "book",
+      "reading_status": "currently_rereading",
+      "status_as_of": "2026-07-11",
+      "completed_reads": 1,
+      "rating_100": 90,
+      "rating_basis": "overall",
+      "notes": "Reading for a second time.",
+      "id": 2,
+      "url": "https://openlibrary.org/works/OL15992072W",
+      "image_url": "https://covers.openlibrary.org/b/id/13290711-L.jpg"
+    },
+    {
+      "title": "The New Oxford Annotated Bible with the Apocrypha, NRSV, Fifth Edition",
+      "authors": [],
+      "category": "scripture",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": 100,
+      "rating_basis": "overall",
+      "notes": "Expected to remain an ongoing read indefinitely.",
+      "id": 3,
+      "url": "https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072",
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780190276072-L.jpg?default=false"
+    },
+    {
+      "title": "Pattern Recognition and Machine Learning",
+      "authors": [
+        "Christopher M. Bishop"
+      ],
+      "category": "textbook",
+      "reading_status": "partially_read",
+      "status_as_of": null,
+      "rating_100": 85,
+      "rating_basis": "textbook",
+      "notes": null,
+      "id": 4,
+      "url": "https://openlibrary.org/works/OL2963587W",
+      "image_url": "https://covers.openlibrary.org/b/id/245089-L.jpg"
+    },
+    {
+      "title": "Influence",
+      "authors": [
+        "Robert B. Cialdini"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "completed_reads": 0,
+      "rating_100": 82,
+      "rating_basis": "overall",
+      "notes": "A previous partial attempt is not counted; tracked as a first full read from the beginning.",
+      "id": 5,
+      "url": "https://openlibrary.org/works/OL3902892W",
+      "image_url": "https://covers.openlibrary.org/b/id/431011-L.jpg"
+    },
+    {
+      "title": "Designing Machine Learning Systems",
+      "authors": [
+        "Chip Huyen"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 63,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 6,
+      "url": "https://openlibrary.org/works/OL26768541W",
+      "image_url": "https://covers.openlibrary.org/b/id/13314480-L.jpg"
+    },
+    {
+      "title": "Discourse on Method and Meditations on First Philosophy",
+      "authors": [
+        "René Descartes"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 7,
+      "url": "https://openlibrary.org/works/OL15320185W",
+      "image_url": "https://covers.openlibrary.org/b/id/662303-L.jpg"
+    },
+    {
+      "title": "Critique of Pure Reason",
+      "authors": [
+        "Immanuel Kant"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 8,
+      "url": "https://openlibrary.org/works/OL99703W",
+      "image_url": "https://covers.openlibrary.org/b/id/2336629-L.jpg"
+    },
+    {
+      "title": "The Self-Assembling Brain",
+      "authors": [
+        "Peter Robin Hiesinger"
+      ],
+      "category": "book",
+      "reading_status": "partially_read",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 9,
+      "url": "https://openlibrary.org/works/OL25482535W",
+      "image_url": "https://pup-assets.imgix.net/onix/images/9780691181226.jpg?fit=fill&fill=solid&fill-color=ffffff&w=1200&h=630"
+    },
+    {
+      "title": "Deep Learning",
+      "authors": [
+        "Ian Goodfellow",
+        "Yoshua Bengio",
+        "Aaron Courville"
+      ],
+      "category": "textbook",
+      "reading_status": "partially_read",
+      "status_as_of": null,
+      "rating_100": 86,
+      "rating_basis": "textbook",
+      "notes": null,
+      "id": 10,
+      "url": "https://openlibrary.org/works/OL17801809W",
+      "image_url": "https://covers.openlibrary.org/b/id/8086288-L.jpg"
+    },
+    {
+      "title": "The Selfish Gene",
+      "authors": [
+        "Richard Dawkins"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 11,
+      "url": "https://openlibrary.org/works/OL1966488W",
+      "image_url": "https://covers.openlibrary.org/b/id/133936-L.jpg"
+    },
+    {
+      "title": "Webster's New World Dictionary, Third College Edition",
+      "authors": [],
+      "category": "reference",
+      "reading_status": "reference_only",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": "not_applicable",
+      "notes": "Not treated as a book that is read cover to cover.",
+      "id": 12,
+      "url": "https://archive.org/details/webstersnewworld3rd00neuf",
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780671887087-L.jpg?default=false"
+    },
+    {
+      "title": "Mathematics for Machine Learning",
+      "authors": [
+        "Marc Peter Deisenroth",
+        "A. Aldo Faisal",
+        "Cheng Soon Ong"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 95,
+      "rating_basis": "overall",
+      "notes": "Converted from a prior 5-star rating.",
+      "id": 13,
+      "url": "https://openlibrary.org/works/OL20914440W",
+      "image_url": "https://covers.openlibrary.org/b/id/10281784-L.jpg"
+    },
+    {
+      "title": "Republic",
+      "authors": [
+        "Plato"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": "Benjamin Jowett translation.",
+      "id": 14,
+      "url": "https://openlibrary.org/works/OL51831W",
+      "image_url": "https://covers.openlibrary.org/b/id/14418448-L.jpg"
+    },
+    {
+      "title": "The Art of Doing Science and Engineering: Learning to Learn",
+      "authors": [
+        "Richard W. Hamming"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 15,
+      "url": "https://press.stripe.com/the-art-of-doing-science-and-engineering",
+      "image_url": "https://covers.openlibrary.org/b/id/14153910-L.jpg"
+    },
+    {
+      "title": "The Richest Man in Babylon",
+      "authors": [
+        "George S. Clason"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 16,
+      "url": "https://openlibrary.org/works/OL8165007W",
+      "image_url": "https://covers.openlibrary.org/b/id/10491331-L.jpg"
+    },
+    {
+      "title": "The Cold Start Problem",
+      "authors": [
+        "Andrew Chen"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 17,
+      "url": "https://openlibrary.org/works/OL24182444W",
+      "image_url": "https://covers.openlibrary.org/b/id/10607120-L.jpg"
+    },
+    {
+      "title": "The Wealth of Nations, Books I–III",
+      "authors": [
+        "Adam Smith"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 18,
+      "url": "https://openlibrary.org/works/OL76827W",
+      "image_url": "https://covers.openlibrary.org/b/id/12816911-L.jpg"
+    },
+    {
+      "title": "Python Crash Course",
+      "authors": [
+        "Eric Matthes"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 52,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 19,
+      "url": "https://openlibrary.org/works/OL17920482W",
+      "image_url": "https://covers.openlibrary.org/b/id/8245395-L.jpg"
+    },
+    {
+      "title": "C++ Primer, Fifth Edition",
+      "authors": [
+        "Stanley B. Lippman",
+        "Josée Lajoie",
+        "Barbara E. Moo"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 78,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 20,
+      "url": "https://www.informit.com/store/c-plus-plus-primer-9780321714114",
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780321714114-L.jpg?default=false"
+    },
+    {
+      "title": "Java Precisely, Third Edition",
+      "authors": [
+        "Peter Sestoft"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 58,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 21,
+      "url": "https://mitpress.mit.edu/9780262529075/java-precisely/",
+      "image_url": null
+    },
+    {
+      "title": "Deep Learning for Coders with fastai and PyTorch",
+      "authors": [
+        "Jeremy Howard",
+        "Sylvain Gugger"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 61,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 22,
+      "url": "https://openlibrary.org/works/OL21655069W",
+      "image_url": "https://covers.openlibrary.org/b/id/12993649-L.jpg"
+    },
+    {
+      "title": "Mathematical Statistics with Applications, Seventh Edition",
+      "authors": [
+        "Dennis D. Wackerly",
+        "William Mendenhall III",
+        "Richard L. Scheaffer"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 72,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 23,
+      "url": "https://openlibrary.org/works/OL14925216W",
+      "image_url": "https://covers.openlibrary.org/b/id/1258957-L.jpg"
+    },
+    {
+      "title": "Calculus: Early Transcendentals, Eighth Edition",
+      "authors": [
+        "James Stewart"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 87,
+      "rating_basis": "textbook",
+      "notes": "Described as a great textbook.",
+      "id": 24,
+      "url": "https://openlibrary.org/works/OL7950355W",
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781285741550-L.jpg?default=false"
+    },
+    {
+      "title": "Introduction to Quantum Mechanics, Third Edition",
+      "authors": [
+        "David J. Griffiths",
+        "Darrell F. Schroeter"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 88,
+      "rating_basis": "textbook",
+      "notes": null,
+      "id": 25,
+      "url": "https://openlibrary.org/works/OL1999759W",
+      "image_url": "https://covers.openlibrary.org/b/isbn/9781107189638-L.jpg?default=false"
+    },
+    {
+      "title": "Introduction to Electrodynamics",
+      "authors": [
+        "David J. Griffiths"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 89,
+      "rating_basis": "textbook",
+      "notes": null,
+      "id": 26,
+      "url": "https://openlibrary.org/works/OL1999763W",
+      "image_url": "https://covers.openlibrary.org/b/id/92086-L.jpg"
+    },
+    {
+      "title": "Special Relativity: For the Enthusiastic Beginner",
+      "authors": [
+        "David Morin"
+      ],
+      "category": "textbook",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 70,
+      "rating_basis": "textbook",
+      "notes": null,
+      "id": 27,
+      "url": "https://openlibrary.org/works/OL28965124W",
+      "image_url": "https://covers.openlibrary.org/b/id/12949902-L.jpg"
+    },
+    {
+      "title": "War and Peace",
+      "authors": [
+        "Leo Tolstoy"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 28,
+      "url": "https://openlibrary.org/works/OL267171W",
+      "image_url": "https://covers.openlibrary.org/b/id/12621906-L.jpg"
+    },
+    {
+      "title": "A Brief History of Intelligence",
+      "authors": [
+        "Max Bennett"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 63,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 29,
+      "url": "https://www.harpercollins.com/products/a-brief-history-of-intelligence-max-s-bennett",
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780063286344-L.jpg?default=false"
+    },
+    {
+      "title": "Consciousness Explained",
+      "authors": [
+        "Daniel C. Dennett"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 61,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 30,
+      "url": "https://openlibrary.org/works/OL2463703W",
+      "image_url": "https://covers.openlibrary.org/b/id/3964666-L.jpg"
+    },
+    {
+      "title": "Atomic Habits",
+      "authors": [
+        "James Clear"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 66,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 31,
+      "url": "https://openlibrary.org/works/OL17930368W",
+      "image_url": "https://covers.openlibrary.org/b/id/12539702-L.jpg"
+    },
+    {
+      "title": "12 Rules for Life",
+      "authors": [
+        "Jordan B. Peterson"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 51,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 32,
+      "url": "https://openlibrary.org/works/OL17837119W",
+      "image_url": "https://covers.openlibrary.org/b/id/8131760-L.jpg"
+    },
+    {
+      "title": "Outliers",
+      "authors": [
+        "Malcolm Gladwell"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 90,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 33,
+      "url": "https://openlibrary.org/works/OL5749847W",
+      "image_url": "https://covers.openlibrary.org/b/id/10021591-L.jpg"
+    },
+    {
+      "title": "The Daily Laws",
+      "authors": [
+        "Robert Greene"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 71,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 34,
+      "url": "https://openlibrary.org/works/OL24777278W",
+      "image_url": "https://covers.openlibrary.org/b/id/11532633-L.jpg"
+    },
+    {
+      "title": "Never Split the Difference",
+      "authors": [
+        "Chris Voss"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 70,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 35,
+      "url": "https://openlibrary.org/works/OL18819818W",
+      "image_url": "https://covers.openlibrary.org/b/id/8365942-L.jpg"
+    },
+    {
+      "title": "Scarcity Brain",
+      "authors": [
+        "Michael Easter"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 55,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 36,
+      "url": "https://openlibrary.org/works/OL34276651W",
+      "image_url": "https://covers.openlibrary.org/b/id/14546962-L.jpg"
+    },
+    {
+      "title": "Risk",
+      "authors": [
+        "Stanley McChrystal",
+        "Anna Butrico"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 54,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 37,
+      "url": "https://openlibrary.org/works/OL25907848W",
+      "image_url": null
+    },
+    {
+      "title": "The Alchemist",
+      "authors": [
+        "Paulo Coelho"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 72,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 38,
+      "url": "https://openlibrary.org/works/OL796465W",
+      "image_url": "https://covers.openlibrary.org/b/id/7414780-L.jpg"
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "authors": [
+        "J. D. Salinger"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 76,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 39,
+      "url": "https://openlibrary.org/works/OL3335245W",
+      "image_url": "https://covers.openlibrary.org/b/id/9273490-L.jpg"
+    },
+    {
+      "title": "No Longer Human",
+      "authors": [
+        "Osamu Dazai"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 83,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 40,
+      "url": "https://openlibrary.org/works/OL37579112W",
+      "image_url": "https://covers.openlibrary.org/b/id/14611513-L.jpg"
+    },
+    {
+      "title": "Meditations",
+      "authors": [
+        "Marcus Aurelius"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 87,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 41,
+      "url": "https://openlibrary.org/works/OL1317211W",
+      "image_url": "https://covers.openlibrary.org/b/id/211529-L.jpg"
+    },
+    {
+      "title": "Jesus Calling",
+      "authors": [
+        "Sarah Young"
+      ],
+      "category": "devotional",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 90,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 42,
+      "url": "https://openlibrary.org/works/OL8980610W",
+      "image_url": "https://covers.openlibrary.org/b/id/864419-L.jpg"
+    },
+    {
+      "title": "Holy Bible, New Living Translation (NLT)",
+      "authors": [],
+      "category": "scripture",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": "withheld",
+      "notes": "Not rated out of respect.",
+      "id": 43,
+      "url": "https://www.tyndale.com/sites/nlt/",
+      "image_url": null
+    },
+    {
+      "title": "Flowers for Algernon",
+      "authors": [
+        "Daniel Keyes"
+      ],
+      "category": "book",
+      "reading_status": "partially_read",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": "Explicitly not marked as currently reading.",
+      "id": 44,
+      "url": "https://openlibrary.org/works/OL515754W",
+      "image_url": "https://covers.openlibrary.org/b/id/12947700-L.jpg"
+    },
+    {
+      "title": "The Power of Habit",
+      "authors": [
+        "Charles Duhigg"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 89,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 45,
+      "url": "https://openlibrary.org/works/OL16015154W",
+      "image_url": "https://covers.openlibrary.org/b/id/9078085-L.jpg"
+    },
+    {
+      "title": "Why We Sleep",
+      "authors": [
+        "Matthew Walker"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 71,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 46,
+      "url": "https://openlibrary.org/works/OL20168133W",
+      "image_url": "https://covers.openlibrary.org/b/id/8814155-L.jpg"
+    },
+    {
+      "title": "David and Goliath",
+      "authors": [
+        "Malcolm Gladwell"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 82,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 47,
+      "url": "https://openlibrary.org/works/OL16809805W",
+      "image_url": "https://covers.openlibrary.org/b/id/7276285-L.jpg"
+    },
+    {
+      "title": "How to Win Friends and Influence People",
+      "authors": [
+        "Dale Carnegie"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 89,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 48,
+      "url": "https://openlibrary.org/works/OL1063267W",
+      "image_url": "https://covers.openlibrary.org/b/id/13314878-L.jpg"
+    },
+    {
+      "title": "The 48 Laws of Power",
+      "authors": [
+        "Robert Greene"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 61,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 49,
+      "url": "https://openlibrary.org/works/OL1968368W",
+      "image_url": "https://covers.openlibrary.org/b/id/6424160-L.jpg"
+    },
+    {
+      "title": "Einstein: His Life and Universe",
+      "authors": [
+        "Walter Isaacson"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 50,
+      "url": "https://openlibrary.org/works/OL4288870W",
+      "image_url": "https://covers.openlibrary.org/b/id/474440-L.jpg"
+    },
+    {
+      "title": "Leonardo da Vinci",
+      "authors": [
+        "Walter Isaacson"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 51,
+      "url": "https://openlibrary.org/works/OL17802920W",
+      "image_url": "https://covers.openlibrary.org/b/id/8087691-L.jpg"
+    },
+    {
+      "title": "Retire by 30",
+      "authors": [
+        "Frank Niu"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 52,
+      "url": "https://openlibrary.org/works/OL37619634W",
+      "image_url": "https://covers.openlibrary.org/b/id/14618577-L.jpg"
+    },
+    {
+      "title": "Can't Hurt Me",
+      "authors": [
+        "David Goggins"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 50,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 53,
+      "url": "https://openlibrary.org/works/OL18108064W",
+      "image_url": "https://covers.openlibrary.org/b/id/8305903-L.jpg"
+    },
+    {
+      "title": "How to Day Trade for a Living",
+      "authors": [
+        "Andrew Aziz"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 48,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 54,
+      "url": "https://openlibrary.org/works/OL19730523W",
+      "image_url": "https://covers.openlibrary.org/b/id/14842655-L.jpg"
+    },
+    {
+      "title": "Tax-Free Wealth, Second Edition",
+      "authors": [
+        "Tom Wheelwright"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 51,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 55,
+      "url": "https://www.wealthability.com/pr/cpa-tom-wheelwright-releases-tax-free-wealth-2nd-edition-with-new-tax-law-updates/",
+      "image_url": null
+    },
+    {
+      "title": "Man's Search for Meaning",
+      "authors": [
+        "Viktor E. Frankl"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 64,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 56,
+      "url": "https://openlibrary.org/works/OL1268413W",
+      "image_url": "https://covers.openlibrary.org/b/id/8516506-L.jpg"
+    },
+    {
+      "title": "The Power of Positive Thinking",
+      "authors": [
+        "Norman Vincent Peale"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 41,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 57,
+      "url": "https://openlibrary.org/works/OL2917168W",
+      "image_url": "https://covers.openlibrary.org/b/id/14570194-L.jpg"
+    },
+    {
+      "title": "Talking to Strangers",
+      "authors": [
+        "Malcolm Gladwell"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 73,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 58,
+      "url": "https://openlibrary.org/works/OL20126964W",
+      "image_url": "https://covers.openlibrary.org/b/id/8779682-L.jpg"
+    },
+    {
+      "title": "Surely You're Joking, Mr. Feynman!",
+      "authors": [
+        "Richard P. Feynman"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 59,
+      "url": "https://openlibrary.org/works/OL514629W",
+      "image_url": "https://covers.openlibrary.org/b/id/9274698-L.jpg"
+    },
+    {
+      "title": "Genius Makers",
+      "authors": [
+        "Cade Metz"
+      ],
+      "category": "book",
+      "reading_status": "currently_reading",
+      "status_as_of": "2026-07-11",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 60,
+      "url": "https://openlibrary.org/works/OL24233014W",
+      "image_url": "https://covers.openlibrary.org/b/id/10708874-L.jpg"
+    },
+    {
+      "title": "Crime and Punishment",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "category": "book",
+      "reading_status": "partially_read",
+      "status_as_of": null,
+      "rating_100": 82,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 61,
+      "url": "https://openlibrary.org/works/OL166894W",
+      "image_url": "https://covers.openlibrary.org/b/id/9411873-L.jpg"
+    },
+    {
+      "title": "1984",
+      "authors": [
+        "George Orwell"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 83,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 62,
+      "url": "https://openlibrary.org/works/OL1168083W",
+      "image_url": "https://covers.openlibrary.org/b/id/9267242-L.jpg"
+    },
+    {
+      "title": "Tuesdays with Morrie",
+      "authors": [
+        "Mitch Albom"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 51,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 63,
+      "url": "https://openlibrary.org/works/OL1822313W",
+      "image_url": "https://covers.openlibrary.org/b/id/12560417-L.jpg"
+    },
+    {
+      "title": "Rich Dad Poor Dad",
+      "authors": [
+        "Robert T. Kiyosaki"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 47,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 64,
+      "url": "https://openlibrary.org/works/OL2010879W",
+      "image_url": "https://covers.openlibrary.org/b/id/8315603-L.jpg"
+    },
+    {
+      "title": "Self-Care for Black Men",
+      "authors": [
+        "Jor-El Caraballo"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 40,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 65,
+      "url": "https://openlibrary.org/works/OL35749810W",
+      "image_url": null
+    },
+    {
+      "title": "Against Method",
+      "authors": [
+        "Paul Feyerabend"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 42,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 66,
+      "url": "https://openlibrary.org/works/OL455919W",
+      "image_url": "https://covers.openlibrary.org/b/id/9598338-L.jpg"
+    },
+    {
+      "title": "The Mindful Athlete",
+      "authors": [
+        "George Mumford"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 38,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 67,
+      "url": "https://openlibrary.org/works/OL20004356W",
+      "image_url": "https://covers.openlibrary.org/b/id/12645275-L.jpg"
+    },
+    {
+      "title": "Leadership and the Quest for Integrity",
+      "authors": [
+        "Joseph L. Badaracco Jr.",
+        "Richard R. Ellsworth"
+      ],
+      "category": "book",
+      "reading_status": "read",
+      "status_as_of": null,
+      "rating_100": 39,
+      "rating_basis": "overall",
+      "notes": null,
+      "id": 68,
+      "url": "https://openlibrary.org/works/OL2668717W",
+      "image_url": "https://covers.openlibrary.org/b/id/12835917-L.jpg"
+    },
+    {
+      "title": "Ethiopian Bible in English",
+      "authors": [],
+      "category": "scripture",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": "unrated",
+      "notes": null,
+      "id": 69,
+      "url": "https://openlibrary.org/works/OL39197180W",
+      "image_url": null
+    }
+  ],
+  "removed_from_active_inventory": [
+    "Shabbat: A Day to Create Yourself",
+    "Seinfeldia",
+    "Mindful Universe",
+    "The Road to Reality"
+  ]
+}

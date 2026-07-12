@@ -1059,12 +1059,21 @@
       "id": 69,
       "url": "https://openlibrary.org/works/OL39197180W",
       "image_url": "/assets/Book/library/69-ethiopian-bible-in-english.jpg"
+    },
+    {
+      "title": "The Karamazov Brothers",
+      "authors": [
+        "Fyodor Dostoevsky"
+      ],
+      "category": "book",
+      "reading_status": "unread",
+      "status_as_of": "2026-07-12",
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 70,
+      "url": "https://a.co/d/0eeOJx45",
+      "image_url": "/assets/Book/library/70-brothers.jpg"
     }
-  ],
-  "removed_from_active_inventory": [
-    "Shabbat: A Day to Create Yourself",
-    "Seinfeldia",
-    "Mindful Universe",
-    "The Road to Reality"
   ]
 }

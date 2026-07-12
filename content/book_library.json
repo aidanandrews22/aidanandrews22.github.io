@@ -336,7 +336,7 @@
       "notes": null,
       "id": 21,
       "url": "https://mitpress.mit.edu/9780262529075/java-precisely/",
-      "image_url": null
+      "image_url": "/assets/Book/library/21-java-precisely-third-edition.jpg"
     },
     {
       "title": "Deep Learning for Coders with fastai and PyTorch",
@@ -581,7 +581,7 @@
       "notes": null,
       "id": 37,
       "url": "https://openlibrary.org/works/OL25907848W",
-      "image_url": null
+      "image_url": "/assets/Book/library/37-risk.jpg"
     },
     {
       "title": "The Alchemist",
@@ -849,7 +849,7 @@
       "notes": null,
       "id": 55,
       "url": "https://www.wealthability.com/pr/cpa-tom-wheelwright-releases-tax-free-wealth-2nd-edition-with-new-tax-law-updates/",
-      "image_url": null
+      "image_url": "/assets/Book/library/55-tax-free-wealth-second-edition.jpg"
     },
     {
       "title": "Man's Search for Meaning",
@@ -999,7 +999,7 @@
       "notes": null,
       "id": 65,
       "url": "https://openlibrary.org/works/OL35749810W",
-      "image_url": null
+      "image_url": "/assets/Book/library/65-self-care-for-black-men.jpg"
     },
     {
       "title": "Against Method",
@@ -1058,7 +1058,7 @@
       "notes": null,
       "id": 69,
       "url": "https://openlibrary.org/works/OL39197180W",
-      "image_url": null
+      "image_url": "/assets/Book/library/69-ethiopian-bible-in-english.jpg"
     }
   ],
   "removed_from_active_inventory": [

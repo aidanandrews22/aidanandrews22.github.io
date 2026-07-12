@@ -32,7 +32,7 @@
       "notes": "Henry Chadwick translation.",
       "id": 1,
       "url": "https://openlibrary.org/works/OL137872W",
-      "image_url": "https://covers.openlibrary.org/b/id/9022521-L.jpg"
+      "image_url": "/assets/Book/library/1-confessions.jpg"
     },
     {
       "title": "Thinking, Fast and Slow",
@@ -48,7 +48,7 @@
       "notes": "Reading for a second time.",
       "id": 2,
       "url": "https://openlibrary.org/works/OL15992072W",
-      "image_url": "https://covers.openlibrary.org/b/id/13290711-L.jpg"
+      "image_url": "/assets/Book/library/2-thinking-fast-and-slow.jpg"
     },
     {
       "title": "The New Oxford Annotated Bible with the Apocrypha, NRSV, Fifth Edition",
@@ -61,7 +61,7 @@
       "notes": "Expected to remain an ongoing read indefinitely.",
       "id": 3,
       "url": "https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072",
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780190276072-L.jpg?default=false"
+      "image_url": "/assets/Book/library/3-the-new-oxford-annotated-bible-with-the-apocrypha-nrsv-fifth.jpg"
     },
     {
       "title": "Pattern Recognition and Machine Learning",
@@ -76,7 +76,7 @@
       "notes": null,
       "id": 4,
       "url": "https://openlibrary.org/works/OL2963587W",
-      "image_url": "https://covers.openlibrary.org/b/id/245089-L.jpg"
+      "image_url": "/assets/Book/library/4-pattern-recognition-and-machine-learning.jpg"
     },
     {
       "title": "Influence",
@@ -92,7 +92,7 @@
       "notes": "A previous partial attempt is not counted; tracked as a first full read from the beginning.",
       "id": 5,
       "url": "https://openlibrary.org/works/OL3902892W",
-      "image_url": "https://covers.openlibrary.org/b/id/431011-L.jpg"
+      "image_url": "/assets/Book/library/5-influence.jpg"
     },
     {
       "title": "Designing Machine Learning Systems",
@@ -107,7 +107,7 @@
       "notes": null,
       "id": 6,
       "url": "https://openlibrary.org/works/OL26768541W",
-      "image_url": "https://covers.openlibrary.org/b/id/13314480-L.jpg"
+      "image_url": "/assets/Book/library/6-designing-machine-learning-systems.jpg"
     },
     {
       "title": "Discourse on Method and Meditations on First Philosophy",
@@ -122,7 +122,7 @@
       "notes": null,
       "id": 7,
       "url": "https://openlibrary.org/works/OL15320185W",
-      "image_url": "https://covers.openlibrary.org/b/id/662303-L.jpg"
+      "image_url": "/assets/Book/library/7-discourse-on-method-and-meditations-on-first-philosophy.jpg"
     },
     {
       "title": "Critique of Pure Reason",
@@ -137,7 +137,7 @@
       "notes": null,
       "id": 8,
       "url": "https://openlibrary.org/works/OL99703W",
-      "image_url": "https://covers.openlibrary.org/b/id/2336629-L.jpg"
+      "image_url": "/assets/Book/library/8-critique-of-pure-reason.jpg"
     },
     {
       "title": "The Self-Assembling Brain",
@@ -152,7 +152,7 @@
       "notes": null,
       "id": 9,
       "url": "https://openlibrary.org/works/OL25482535W",
-      "image_url": "https://pup-assets.imgix.net/onix/images/9780691181226.jpg?fit=fill&fill=solid&fill-color=ffffff&w=1200&h=630"
+      "image_url": "/assets/Book/library/9-the-self-assembling-brain.avif"
     },
     {
       "title": "Deep Learning",
@@ -169,7 +169,7 @@
       "notes": null,
       "id": 10,
       "url": "https://openlibrary.org/works/OL17801809W",
-      "image_url": "https://covers.openlibrary.org/b/id/8086288-L.jpg"
+      "image_url": "/assets/Book/library/10-deep-learning.jpg"
     },
     {
       "title": "The Selfish Gene",
@@ -184,7 +184,7 @@
       "notes": null,
       "id": 11,
       "url": "https://openlibrary.org/works/OL1966488W",
-      "image_url": "https://covers.openlibrary.org/b/id/133936-L.jpg"
+      "image_url": "/assets/Book/library/11-the-selfish-gene.jpg"
     },
     {
       "title": "Webster's New World Dictionary, Third College Edition",
@@ -197,7 +197,7 @@
       "notes": "Not treated as a book that is read cover to cover.",
       "id": 12,
       "url": "https://archive.org/details/webstersnewworld3rd00neuf",
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780671887087-L.jpg?default=false"
+      "image_url": "/assets/Book/library/12-webster-s-new-world-dictionary-third-college-edition.jpg"
     },
     {
       "title": "Mathematics for Machine Learning",
@@ -214,7 +214,7 @@
       "notes": "Converted from a prior 5-star rating.",
       "id": 13,
       "url": "https://openlibrary.org/works/OL20914440W",
-      "image_url": "https://covers.openlibrary.org/b/id/10281784-L.jpg"
+      "image_url": "/assets/Book/library/13-mathematics-for-machine-learning.jpg"
     },
     {
       "title": "Republic",
@@ -229,7 +229,7 @@
       "notes": "Benjamin Jowett translation.",
       "id": 14,
       "url": "https://openlibrary.org/works/OL51831W",
-      "image_url": "https://covers.openlibrary.org/b/id/14418448-L.jpg"
+      "image_url": "/assets/Book/library/14-republic.jpg"
     },
     {
       "title": "The Art of Doing Science and Engineering: Learning to Learn",
@@ -244,7 +244,7 @@
       "notes": null,
       "id": 15,
       "url": "https://press.stripe.com/the-art-of-doing-science-and-engineering",
-      "image_url": "https://covers.openlibrary.org/b/id/14153910-L.jpg"
+      "image_url": "/assets/Book/library/15-the-art-of-doing-science-and-engineering-learning-to-learn.jpg"
     },
     {
       "title": "The Richest Man in Babylon",
@@ -259,7 +259,7 @@
       "notes": null,
       "id": 16,
       "url": "https://openlibrary.org/works/OL8165007W",
-      "image_url": "https://covers.openlibrary.org/b/id/10491331-L.jpg"
+      "image_url": "/assets/Book/library/16-the-richest-man-in-babylon.jpg"
     },
     {
       "title": "The Cold Start Problem",
@@ -274,7 +274,7 @@
       "notes": null,
       "id": 17,
       "url": "https://openlibrary.org/works/OL24182444W",
-      "image_url": "https://covers.openlibrary.org/b/id/10607120-L.jpg"
+      "image_url": "/assets/Book/library/17-the-cold-start-problem.jpg"
     },
     {
       "title": "The Wealth of Nations, Books I–III",
@@ -289,7 +289,7 @@
       "notes": null,
       "id": 18,
       "url": "https://openlibrary.org/works/OL76827W",
-      "image_url": "https://covers.openlibrary.org/b/id/12816911-L.jpg"
+      "image_url": "/assets/Book/library/18-the-wealth-of-nations-books-iiii.jpg"
     },
     {
       "title": "Python Crash Course",
@@ -304,7 +304,7 @@
       "notes": null,
       "id": 19,
       "url": "https://openlibrary.org/works/OL17920482W",
-      "image_url": "https://covers.openlibrary.org/b/id/8245395-L.jpg"
+      "image_url": "/assets/Book/library/19-python-crash-course.jpg"
     },
     {
       "title": "C++ Primer, Fifth Edition",
@@ -321,7 +321,7 @@
       "notes": null,
       "id": 20,
       "url": "https://www.informit.com/store/c-plus-plus-primer-9780321714114",
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780321714114-L.jpg?default=false"
+      "image_url": "/assets/Book/library/20-c-primer-fifth-edition.jpg"
     },
     {
       "title": "Java Precisely, Third Edition",
@@ -352,7 +352,7 @@
       "notes": null,
       "id": 22,
       "url": "https://openlibrary.org/works/OL21655069W",
-      "image_url": "https://covers.openlibrary.org/b/id/12993649-L.jpg"
+      "image_url": "/assets/Book/library/22-deep-learning-for-coders-with-fastai-and-pytorch.jpg"
     },
     {
       "title": "Mathematical Statistics with Applications, Seventh Edition",
@@ -369,7 +369,7 @@
       "notes": null,
       "id": 23,
       "url": "https://openlibrary.org/works/OL14925216W",
-      "image_url": "https://covers.openlibrary.org/b/id/1258957-L.jpg"
+      "image_url": "/assets/Book/library/23-mathematical-statistics-with-applications-seventh-edition.jpg"
     },
     {
       "title": "Calculus: Early Transcendentals, Eighth Edition",
@@ -384,7 +384,7 @@
       "notes": "Described as a great textbook.",
       "id": 24,
       "url": "https://openlibrary.org/works/OL7950355W",
-      "image_url": "https://covers.openlibrary.org/b/isbn/9781285741550-L.jpg?default=false"
+      "image_url": "/assets/Book/library/24-calculus-early-transcendentals-eighth-edition.jpg"
     },
     {
       "title": "Introduction to Quantum Mechanics, Third Edition",
@@ -400,7 +400,7 @@
       "notes": null,
       "id": 25,
       "url": "https://openlibrary.org/works/OL1999759W",
-      "image_url": "https://covers.openlibrary.org/b/isbn/9781107189638-L.jpg?default=false"
+      "image_url": "/assets/Book/library/25-introduction-to-quantum-mechanics-third-edition.jpg"
     },
     {
       "title": "Introduction to Electrodynamics",
@@ -415,7 +415,7 @@
       "notes": null,
       "id": 26,
       "url": "https://openlibrary.org/works/OL1999763W",
-      "image_url": "https://covers.openlibrary.org/b/id/92086-L.jpg"
+      "image_url": "/assets/Book/library/26-introduction-to-electrodynamics.jpg"
     },
     {
       "title": "Special Relativity: For the Enthusiastic Beginner",
@@ -430,7 +430,7 @@
       "notes": null,
       "id": 27,
       "url": "https://openlibrary.org/works/OL28965124W",
-      "image_url": "https://covers.openlibrary.org/b/id/12949902-L.jpg"
+      "image_url": "/assets/Book/library/27-special-relativity-for-the-enthusiastic-beginner.jpg"
     },
     {
       "title": "War and Peace",
@@ -445,7 +445,7 @@
       "notes": null,
       "id": 28,
       "url": "https://openlibrary.org/works/OL267171W",
-      "image_url": "https://covers.openlibrary.org/b/id/12621906-L.jpg"
+      "image_url": "/assets/Book/library/28-war-and-peace.jpg"
     },
     {
       "title": "A Brief History of Intelligence",
@@ -460,7 +460,7 @@
       "notes": null,
       "id": 29,
       "url": "https://www.harpercollins.com/products/a-brief-history-of-intelligence-max-s-bennett",
-      "image_url": "https://covers.openlibrary.org/b/isbn/9780063286344-L.jpg?default=false"
+      "image_url": "/assets/Book/library/29-a-brief-history-of-intelligence.jpg"
     },
     {
       "title": "Consciousness Explained",
@@ -475,7 +475,7 @@
       "notes": null,
       "id": 30,
       "url": "https://openlibrary.org/works/OL2463703W",
-      "image_url": "https://covers.openlibrary.org/b/id/3964666-L.jpg"
+      "image_url": "/assets/Book/library/30-consciousness-explained.jpg"
     },
     {
       "title": "Atomic Habits",
@@ -490,7 +490,7 @@
       "notes": null,
       "id": 31,
       "url": "https://openlibrary.org/works/OL17930368W",
-      "image_url": "https://covers.openlibrary.org/b/id/12539702-L.jpg"
+      "image_url": "/assets/Book/library/31-atomic-habits.jpg"
     },
     {
       "title": "12 Rules for Life",
@@ -505,7 +505,7 @@
       "notes": null,
       "id": 32,
       "url": "https://openlibrary.org/works/OL17837119W",
-      "image_url": "https://covers.openlibrary.org/b/id/8131760-L.jpg"
+      "image_url": "/assets/Book/library/32-12-rules-for-life.jpg"
     },
     {
       "title": "Outliers",
@@ -520,7 +520,7 @@
       "notes": null,
       "id": 33,
       "url": "https://openlibrary.org/works/OL5749847W",
-      "image_url": "https://covers.openlibrary.org/b/id/10021591-L.jpg"
+      "image_url": "/assets/Book/library/33-outliers.jpg"
     },
     {
       "title": "The Daily Laws",
@@ -535,7 +535,7 @@
       "notes": null,
       "id": 34,
       "url": "https://openlibrary.org/works/OL24777278W",
-      "image_url": "https://covers.openlibrary.org/b/id/11532633-L.jpg"
+      "image_url": "/assets/Book/library/34-the-daily-laws.jpg"
     },
     {
       "title": "Never Split the Difference",
@@ -550,7 +550,7 @@
       "notes": null,
       "id": 35,
       "url": "https://openlibrary.org/works/OL18819818W",
-      "image_url": "https://covers.openlibrary.org/b/id/8365942-L.jpg"
+      "image_url": "/assets/Book/library/35-never-split-the-difference.jpg"
     },
     {
       "title": "Scarcity Brain",
@@ -565,7 +565,7 @@
       "notes": null,
       "id": 36,
       "url": "https://openlibrary.org/works/OL34276651W",
-      "image_url": "https://covers.openlibrary.org/b/id/14546962-L.jpg"
+      "image_url": "/assets/Book/library/36-scarcity-brain.jpg"
     },
     {
       "title": "Risk",
@@ -596,7 +596,7 @@
       "notes": null,
       "id": 38,
       "url": "https://openlibrary.org/works/OL796465W",
-      "image_url": "https://covers.openlibrary.org/b/id/7414780-L.jpg"
+      "image_url": "/assets/Book/library/38-the-alchemist.jpg"
     },
     {
       "title": "The Catcher in the Rye",
@@ -611,7 +611,7 @@
       "notes": null,
       "id": 39,
       "url": "https://openlibrary.org/works/OL3335245W",
-      "image_url": "https://covers.openlibrary.org/b/id/9273490-L.jpg"
+      "image_url": "/assets/Book/library/39-the-catcher-in-the-rye.jpg"
     },
     {
       "title": "No Longer Human",
@@ -626,7 +626,7 @@
       "notes": null,
       "id": 40,
       "url": "https://openlibrary.org/works/OL37579112W",
-      "image_url": "https://covers.openlibrary.org/b/id/14611513-L.jpg"
+      "image_url": "/assets/Book/library/40-no-longer-human.jpg"
     },
     {
       "title": "Meditations",
@@ -641,7 +641,7 @@
       "notes": null,
       "id": 41,
       "url": "https://openlibrary.org/works/OL1317211W",
-      "image_url": "https://covers.openlibrary.org/b/id/211529-L.jpg"
+      "image_url": "/assets/Book/library/41-meditations.jpg"
     },
     {
       "title": "Jesus Calling",
@@ -656,7 +656,7 @@
       "notes": null,
       "id": 42,
       "url": "https://openlibrary.org/works/OL8980610W",
-      "image_url": "https://covers.openlibrary.org/b/id/864419-L.jpg"
+      "image_url": "/assets/Book/library/42-jesus-calling.jpg"
     },
     {
       "title": "Holy Bible, New Living Translation (NLT)",
@@ -669,7 +669,7 @@
       "notes": "Not rated out of respect.",
       "id": 43,
       "url": "https://a.co/d/0doV3L4m",
-      "image_url": "https://m.media-amazon.com/images/I/819qNvOO4sS._SL1500_.jpg"
+      "image_url": "/assets/Book/library/43-holy-bible-new-living-translation-nlt.jpg"
     },
     {
       "title": "Flowers for Algernon",
@@ -684,7 +684,7 @@
       "notes": "Explicitly not marked as currently reading.",
       "id": 44,
       "url": "https://openlibrary.org/works/OL515754W",
-      "image_url": "https://covers.openlibrary.org/b/id/12947700-L.jpg"
+      "image_url": "/assets/Book/library/44-flowers-for-algernon.jpg"
     },
     {
       "title": "The Power of Habit",
@@ -699,7 +699,7 @@
       "notes": null,
       "id": 45,
       "url": "https://openlibrary.org/works/OL16015154W",
-      "image_url": "https://covers.openlibrary.org/b/id/9078085-L.jpg"
+      "image_url": "/assets/Book/library/45-the-power-of-habit.jpg"
     },
     {
       "title": "Why We Sleep",
@@ -714,7 +714,7 @@
       "notes": null,
       "id": 46,
       "url": "https://openlibrary.org/works/OL20168133W",
-      "image_url": "https://covers.openlibrary.org/b/id/8814155-L.jpg"
+      "image_url": "/assets/Book/library/46-why-we-sleep.jpg"
     },
     {
       "title": "David and Goliath",
@@ -729,7 +729,7 @@
       "notes": null,
       "id": 47,
       "url": "https://openlibrary.org/works/OL16809805W",
-      "image_url": "https://covers.openlibrary.org/b/id/7276285-L.jpg"
+      "image_url": "/assets/Book/library/47-david-and-goliath.jpg"
     },
     {
       "title": "How to Win Friends and Influence People",
@@ -744,7 +744,7 @@
       "notes": null,
       "id": 48,
       "url": "https://openlibrary.org/works/OL1063267W",
-      "image_url": "https://covers.openlibrary.org/b/id/13314878-L.jpg"
+      "image_url": "/assets/Book/library/48-how-to-win-friends-and-influence-people.jpg"
     },
     {
       "title": "The 48 Laws of Power",
@@ -759,7 +759,7 @@
       "notes": null,
       "id": 49,
       "url": "https://openlibrary.org/works/OL1968368W",
-      "image_url": "https://covers.openlibrary.org/b/id/6424160-L.jpg"
+      "image_url": "/assets/Book/library/49-the-48-laws-of-power.jpg"
     },
     {
       "title": "Einstein: His Life and Universe",
@@ -774,7 +774,7 @@
       "notes": null,
       "id": 50,
       "url": "https://openlibrary.org/works/OL4288870W",
-      "image_url": "https://covers.openlibrary.org/b/id/474440-L.jpg"
+      "image_url": "/assets/Book/library/50-einstein-his-life-and-universe.jpg"
     },
     {
       "title": "Leonardo da Vinci",
@@ -789,7 +789,7 @@
       "notes": null,
       "id": 51,
       "url": "https://openlibrary.org/works/OL17802920W",
-      "image_url": "https://covers.openlibrary.org/b/id/8087691-L.jpg"
+      "image_url": "/assets/Book/library/51-leonardo-da-vinci.jpg"
     },
     {
       "title": "Retire by 30",
@@ -804,7 +804,7 @@
       "notes": null,
       "id": 52,
       "url": "https://openlibrary.org/works/OL37619634W",
-      "image_url": "https://covers.openlibrary.org/b/id/14618577-L.jpg"
+      "image_url": "/assets/Book/library/52-retire-by-30.jpg"
     },
     {
       "title": "Can't Hurt Me",
@@ -819,7 +819,7 @@
       "notes": null,
       "id": 53,
       "url": "https://openlibrary.org/works/OL18108064W",
-      "image_url": "https://covers.openlibrary.org/b/id/8305903-L.jpg"
+      "image_url": "/assets/Book/library/53-can-t-hurt-me.jpg"
     },
     {
       "title": "How to Day Trade for a Living",
@@ -834,7 +834,7 @@
       "notes": null,
       "id": 54,
       "url": "https://openlibrary.org/works/OL19730523W",
-      "image_url": "https://covers.openlibrary.org/b/id/14842655-L.jpg"
+      "image_url": "/assets/Book/library/54-how-to-day-trade-for-a-living.jpg"
     },
     {
       "title": "Tax-Free Wealth, Second Edition",
@@ -864,7 +864,7 @@
       "notes": null,
       "id": 56,
       "url": "https://openlibrary.org/works/OL1268413W",
-      "image_url": "https://covers.openlibrary.org/b/id/8516506-L.jpg"
+      "image_url": "/assets/Book/library/56-man-s-search-for-meaning.jpg"
     },
     {
       "title": "The Power of Positive Thinking",
@@ -879,7 +879,7 @@
       "notes": null,
       "id": 57,
       "url": "https://openlibrary.org/works/OL2917168W",
-      "image_url": "https://covers.openlibrary.org/b/id/14570194-L.jpg"
+      "image_url": "/assets/Book/library/57-the-power-of-positive-thinking.jpg"
     },
     {
       "title": "Talking to Strangers",
@@ -894,7 +894,7 @@
       "notes": null,
       "id": 58,
       "url": "https://openlibrary.org/works/OL20126964W",
-      "image_url": "https://covers.openlibrary.org/b/id/8779682-L.jpg"
+      "image_url": "/assets/Book/library/58-talking-to-strangers.jpg"
     },
     {
       "title": "Surely You're Joking, Mr. Feynman!",
@@ -909,7 +909,7 @@
       "notes": null,
       "id": 59,
       "url": "https://openlibrary.org/works/OL514629W",
-      "image_url": "https://covers.openlibrary.org/b/id/9274698-L.jpg"
+      "image_url": "/assets/Book/library/59-surely-you-re-joking-mr-feynman.jpg"
     },
     {
       "title": "Genius Makers",
@@ -924,7 +924,7 @@
       "notes": null,
       "id": 60,
       "url": "https://openlibrary.org/works/OL24233014W",
-      "image_url": "https://covers.openlibrary.org/b/id/10708874-L.jpg"
+      "image_url": "/assets/Book/library/60-genius-makers.jpg"
     },
     {
       "title": "Crime and Punishment",
@@ -939,7 +939,7 @@
       "notes": null,
       "id": 61,
       "url": "https://openlibrary.org/works/OL166894W",
-      "image_url": "https://covers.openlibrary.org/b/id/9411873-L.jpg"
+      "image_url": "/assets/Book/library/61-crime-and-punishment.jpg"
     },
     {
       "title": "1984",
@@ -954,7 +954,7 @@
       "notes": null,
       "id": 62,
       "url": "https://openlibrary.org/works/OL1168083W",
-      "image_url": "https://covers.openlibrary.org/b/id/9267242-L.jpg"
+      "image_url": "/assets/Book/library/62-1984.jpg"
     },
     {
       "title": "Tuesdays with Morrie",
@@ -969,7 +969,7 @@
       "notes": null,
       "id": 63,
       "url": "https://openlibrary.org/works/OL1822313W",
-      "image_url": "https://covers.openlibrary.org/b/id/12560417-L.jpg"
+      "image_url": "/assets/Book/library/63-tuesdays-with-morrie.jpg"
     },
     {
       "title": "Rich Dad Poor Dad",
@@ -984,7 +984,7 @@
       "notes": null,
       "id": 64,
       "url": "https://openlibrary.org/works/OL2010879W",
-      "image_url": "https://covers.openlibrary.org/b/id/8315603-L.jpg"
+      "image_url": "/assets/Book/library/64-rich-dad-poor-dad.jpg"
     },
     {
       "title": "Self-Care for Black Men",
@@ -1014,7 +1014,7 @@
       "notes": null,
       "id": 66,
       "url": "https://openlibrary.org/works/OL455919W",
-      "image_url": "https://covers.openlibrary.org/b/id/9598338-L.jpg"
+      "image_url": "/assets/Book/library/66-against-method.jpg"
     },
     {
       "title": "The Mindful Athlete",
@@ -1029,7 +1029,7 @@
       "notes": null,
       "id": 67,
       "url": "https://openlibrary.org/works/OL20004356W",
-      "image_url": "https://covers.openlibrary.org/b/id/12645275-L.jpg"
+      "image_url": "/assets/Book/library/67-the-mindful-athlete.jpg"
     },
     {
       "title": "Leadership and the Quest for Integrity",
@@ -1045,7 +1045,7 @@
       "notes": null,
       "id": 68,
       "url": "https://openlibrary.org/works/OL2668717W",
-      "image_url": "https://covers.openlibrary.org/b/id/12835917-L.jpg"
+      "image_url": "/assets/Book/library/68-leadership-and-the-quest-for-integrity.jpg"
     },
     {
       "title": "Ethiopian Bible in English",

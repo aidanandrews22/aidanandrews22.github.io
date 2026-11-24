@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0",
-  "library_as_of": "2026-07-11",
+  "library_as_of": "2026-11-24",
   "rating_scale": {
     "minimum": 0,
     "maximum": 100
   },
   "summary": {
-    "active_titles": 69,
+    "active_titles": 79,
     "removed_titles": 4
   },
   "reading_status_definitions": {
@@ -1074,6 +1074,142 @@
       "id": 70,
       "url": "https://a.co/d/0eeOJx45",
       "image_url": "/assets/Book/library/70-brothers.jpg"
+    },
+    {
+      "title": "Build",
+      "authors": [
+        "Tony Fadell"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 71,
+      "url": "https://openlibrary.org/works/OL26627149W",
+      "image_url": "/assets/Book/library/71-build.jpg"
+    },
+    {
+      "title": "Outlive",
+      "authors": [
+        "Peter Attia",
+        "Bill Gifford"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 72,
+      "url": "https://openlibrary.org/works/OL28148070W",
+      "image_url": "/assets/Book/library/72-outlive.jpg"
+    },
+    {
+      "title": "The Road to Reality",
+      "authors": [
+        "Roger Penrose"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 73,
+      "url": "https://openlibrary.org/works/OL3474173W",
+      "image_url": "/assets/Book/library/73-the-road-to-reality.jpg"
+    },
+    {
+      "title": "Mindful Universe, Second Edition",
+      "authors": [
+        "Henry P. Stapp"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 74,
+      "url": "https://openlibrary.org/works/OL16455035W",
+      "image_url": "/assets/Book/library/74-mindful-universe-second-edition.jpg"
+    },
+    {
+      "title": "Seinfeldia",
+      "authors": [
+        "Jennifer Keishin Armstrong"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 75,
+      "url": "https://openlibrary.org/works/OL20035131W",
+      "image_url": "/assets/Book/library/75-seinfeldia.jpg"
+    },
+    {
+      "title": "The Science of Being Great",
+      "authors": [
+        "Wallace D. Wattles"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 76,
+      "url": "https://openlibrary.org/works/OL3792048W",
+      "image_url": "/assets/Book/library/76-the-science-of-being-great.jpg"
+    },
+    {
+      "title": "The Infinity Machine",
+      "authors": [
+        "Sebastian Mallaby"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 77,
+      "url": "https://openlibrary.org/works/OL45068494W",
+      "image_url": "/assets/Book/library/77-the-infinity-machine.jpg"
+    },
+    {
+      "title": "Staff Engineer",
+      "authors": [
+        "Will Larson"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 78,
+      "url": "https://openlibrary.org/works/OL24199831W",
+      "image_url": "/assets/Book/library/78-staff-engineer.jpg"
+    },
+    {
+      "title": "A Beginner's Guide to the Stock Market",
+      "authors": [
+        "Matthew R. Kratter"
+      ],
+      "category": "book",
+      "reading_status": "not_specified",
+      "status_as_of": null,
+      "rating_100": null,
+      "rating_basis": null,
+      "notes": null,
+      "id": 79,
+      "url": "https://openlibrary.org/works/OL20892525W",
+      "image_url": "/assets/Book/library/79-a-beginner-s-guide-to-the-stock-market.jpg"
     }
   ]
 }
